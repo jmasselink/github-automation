@@ -9798,7 +9798,7 @@
 301754,"AKM","small_airport","Zakuoma Airport",10.8902777778,19.8172222222,1370,"AF","TD","TD-SA","ZaKouma","no",,"AKM",,,,"https://en.wikipedia.org/wiki/Zakouma_Airport",
 35356,"AL-0001","heliport","Lapraka Heliport",41.330782,19.795152,297,"EU","AL","AL-11","Tirana","no",,,,,,"https://en.wikipedia.org/wiki/Lapraka_Airfield","Lapraka Airfield, Tirana Aerodrome, OOH, ZOOH"
 325353,"AL-0002","closed","Korroticës së Ulët Airport",42.605253,20.910351,1962,"EU","XK","XK-01","Korroticë e Poshtme","no",,,,,,,"Korroticës së Ulët, Lower Korotica"
-325354,"AL-0003","closed","Vlora International Airport (construction)",40.605367,19.426095,8,"EU","AL","AL-12","Akerni","no",,,,,,"https://en.wikipedia.org/wiki/Vlora_International_Airport","Mifoit Air Base, LAVL, VLO"
+325354,"AL-0003","closed","Vlora International Airport (construction)",40.605367,19.426095,8,"EU","AL","AL-12","Akerni","no",,,,,,"https://en.wikipedia.org/wiki/Vlora_International_Airport","Pish Poro, Mifol Air Base, LAVL, VLO"
 340588,"AL-0004","heliport","Mother Teresa Hospital Heliport",41.339303,19.830489,420,"EU","AL","AL-11","Tirana","no",,,,,,,
 340589,"AL-0005","heliport","University Trauma Hospital Heliport",41.342857,19.793764,295,"EU","AL","AL-11","Tirana","no",,,,,,,
 349286,"AL-0006","heliport","Pogradec Heliport",40.90539,20.65453,2277,"EU","AL","AL-06","Pogradec","no",,,,,,,
@@ -15315,9 +15315,9 @@
 36225,"BR-2493","small_airport","Fazenda Rancho Estrela IV Airport",-13.651944160461,-46.541389465332,2549,"SA","BR","BR-GO","São Domingos","no",,,,"SIRE",,,"SIRE"
 36227,"BR-2494","small_airport","Fazenda Esperança Airport",-12.035795,-51.634884,1214,"SA","BR","BR-MT","Alto da Boa Vista","no",,,,"SIRG",,,"SIRG"
 36231,"BR-2495","heliport","Frei Caneca Heliport",-8.0574998855591,-34.870555877686,270,"SA","BR","BR-PE","Recife","no",,,,"SIRP",,,"SIRP"
-36232,"BR-2496","small_airport","Fazenda Maranata Airport",-12.771169,-60.872107,1000,"SA","BR","BR-RO","Chupinguaia","no",,,,"SIRQ",,,"SIRQ"
-36233,"BR-2497","small_airport","Lagoa dos Coqueiros Airport",-9.235556,-56.987778,1280,"SA","BR","BR-MT","Paranaíta","no",,,,"SIRR",,,"SIRR"
-36235,"BR-2498","small_airport","Marca de Casco Airport",-13.727499961853,-57.021667480469,1158,"SA","BR","BR-MT","São José Do Rio Claro","no",,,,"SIRT",,,"SIRT"
+36232,"BR-2496","small_airport","Fazenda Maranata Airport",-12.772193,-60.871952,1000,"SA","BR","BR-RO","Chupinguaia","no",,,,,,,"SIRQ"
+36233,"BR-2497","small_airport","Lagoa dos Coqueiros Airport",-9.242041,-57.010927,1280,"SA","BR","BR-MT","Paranaíta","no",,,,,,,"SIRR"
+36235,"BR-2498","small_airport","Marca de Casco Airport",-13.722044,-57.028009,1158,"SA","BR","BR-MT","São José do Rio Claro","no",,,,,,,"SIRT"
 36242,"BR-2499","heliport","Transpel Heliport",-22.002500534058,-47.86888885498,2890,"SA","BR","BR-SP","São Carlos","no",,,,"SISA",,,"SISA"
 36246,"BR-2500","small_airport","Fazenda Kanaxuê S/A Airport",-12.00613,-50.869457,650,"SA","BR","BR-MT","São Félix do Araguaia","no",,,,"SISE",,,"SISE, Novo Santo Antonio"
 36247,"BR-2501","small_airport","Fazenda Santa Feliciana Airport",-20.944667,-56.676557,2198,"SA","BR","BR-MS","Bonito","no",,,,"SISF",,,"SISF"
@@ -15392,8 +15392,8 @@
 36432,"BR-2570","small_airport","Fazenda Ventura Airport",-13.160833,-46.200832,3127,"SA","BR","BR-BA","São Desidério","no",,,,,,,"SJAY"
 36436,"BR-2571","small_airport","Fazenda J.K. Airport",-15.158888816833,-48.283889770508,2136,"SA","BR","BR-GO","Mimoso De Goiás","no",,,,"SJBF",,,"SJBF"
 36443,"BR-2572","small_airport","Aldeia Pykany Airport",-8.158442,-54.808134,1100,"SA","BR","BR-PA","Altamira","no",,,,,,,"SJBN"
-36444,"BR-2573","heliport","Terra Vista Heliport",-16.543056488,-39.1116676331,240,"SA","BR","BR-BA","Porto Seguro","no",,,,"SJBO",,,"SJBO"
-36447,"BR-2574","small_airport","Fazenda Santa Luzia Airport",-17.876667022705,-56.388889312744,401,"SA","BR","BR-MS","Corumbá","no",,,,"SJBR",,,"SJBR"
+36444,"BR-2573","heliport","Terra Vista Heliport",-16.537172,-39.112499,240,"SA","BR","BR-BA","Porto Seguro","no",,,,,,,"SJBO"
+36447,"BR-2574","small_airport","Fazenda Santa Luzia Airport",-17.864227,-56.379633,401,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJBR"
 36448,"BR-2575","small_airport","Fazenda Livramento Airport",-19.269027,-56.026858,443,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJBS"
 36451,"BR-2576","small_airport","Fazenda Barbacena Airport",-23.837871,-51.902381,1247,"SA","BR","BR-PR","São Pedro do Ivaí","no",,,,,,,"SJBW"
 36455,"BR-2577","heliport","Álvaro Gama Heliport",-22.868334,-42.046944,17,"SA","BR","BR-RJ","Cabo Frio","no",,,,,,,"SJCC"
@@ -15401,15 +15401,15 @@
 36462,"BR-2579","heliport","Rei da Pamonha Heliport",-23.444946,-46.757074,2560,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SJCK"
 36464,"BR-2580","small_airport","Fazenda São Marcus Airport",-16.121668,-52.950832,4361,"SA","BR","BR-MT","Pontal do Araguaia","no",,,,,,,"SJCM"
 36465,"BR-2581","small_airport","Aero Agrícola Cristalina Airport",-16.90748,-47.704767,3544,"SA","BR","BR-GO","Cristalina","no",,,,,,,"SJCN"
-36470,"BR-2582","heliport","Fazenda da Mata Heliport",-20.474672,-44.783353,2622,"SA","BR","BR-MG","Cláudio","no",,,,"SJCT",,,"SJCT"
-36471,"BR-2583","heliport","CDA - Uberaba Heliport",-20,-47.896667480469,1766,"SA","BR","BR-MG","Uberaba","no",,,,"SJCU",,,"SJCU"
-36473,"BR-2584","heliport","Hospital Pronto Socorro de Venda Nova Heliport",-19.818332672119,-43.947498321533,2622,"SA","BR","BR-MG","Belo Horizonte","no",,,,"SJCX",,,"SJCX"
-36476,"BR-2585","small_airport","Fazenda Cruzeiro Airport",-19.192222595215,-48.117221832275,3160,"SA","BR","BR-MG","Uberaba","no",,,,"SJDA",,,"SJDA"
-36477,"BR-2586","heliport","Coca-Cola Heliport",-19.744167327881,-47.979167938232,2530,"SA","BR","BR-MG","Uberaba","no",,,,"SJDC",,,"SJDC"
-36478,"BR-2587","small_airport","Fazenda Jumbo Airport",-22.513889312744,-53.341945648193,854,"SA","BR","BR-MS","Taquarussu","no",,,,"SJDD",,,"SJDD"
-36480,"BR-2588","small_airport","Projeto Iriri Airport",-6.188056,-54.072224,657,"SA","BR","BR-PA","Altamira","no",,,,"SJDG",,,"SJDG"
-36481,"BR-2589","small_airport","Fazenda S.M. Airport",-14.550000190735,-45.766666412354,2891,"SA","BR","BR-BA","Jaborandi","no",,,,"SJDH",,,"SJDH"
-36490,"BR-2590","heliport","Diplomata Empresarial S/C Ltda Heliport",-23.91838,-46.215229,7,"SA","BR","BR-SP","Guarujá","no",,,,"SJDR",,,"SJDR"
+36470,"BR-2582","heliport","Fazenda da Mata Heliport",-20.474672,-44.783353,2622,"SA","BR","BR-MG","Cláudio","no",,,,,,,"SJCT"
+36471,"BR-2583","heliport","CDA - Uberaba Heliport",-20.001733,-47.897158,1766,"SA","BR","BR-MG","Uberaba","no",,,,,,,"SJCU"
+36473,"BR-2584","closed","Venda Nova Emergency Hospital Heliport",-19.818421,-43.947567,2622,"SA","BR","BR-MG","Belo Horizonte","no",,,,,,,"SJCX, Hospital Risoleta Tolentino Neves"
+36476,"BR-2585","small_airport","Fazenda Cruzeiro Airport",-19.22192,-48.123623,3160,"SA","BR","BR-MG","Uberaba","no",,,,,,,"SJDA"
+36477,"BR-2586","heliport","Coca-Cola Heliport",-19.744167,-47.979168,2530,"SA","BR","BR-MG","Uberaba","no",,,,,,,"SJDC"
+36478,"BR-2587","small_airport","Fazenda Jumbo Airport",-22.512725,-53.333845,854,"SA","BR","BR-MS","Taquarussu","no",,,,,,,"SJDD"
+36480,"BR-2588","small_airport","Projeto Iriri Airport",-6.188056,-54.072224,657,"SA","BR","BR-PA","Altamira","no",,,,,,,"SJDG"
+36481,"BR-2589","small_airport","Fazenda S.M. Airport",-14.547881,-45.778962,2891,"SA","BR","BR-BA","Jaborandi","no",,,,,,,"SJDH"
+36490,"BR-2590","heliport","Diplomata Empresarial S/C Ltda Heliport",-23.91838,-46.215229,7,"SA","BR","BR-SP","Guarujá","no",,,,,,,"SJDR"
 36501,"BR-2591","small_airport","Fazenda Abath Airport",-18.680000305176,-57.224998474121,348,"SA","BR","BR-MS","Corumbá","no",,,,"SJED",,,"SJED"
 36507,"BR-2592","small_airport","Fazenda Bonanza Airport",-22.155000686646,-49.287776947021,1713,"SA","BR","BR-SP","Avaí","no",,,,"SJEJ",,,"SJEJ"
 36509,"BR-2593","small_airport","Eldorado Airport",-6.9555559158325,-56.471111297607,837,"SA","BR","BR-PA","Itaituba","no",,,,"SJEL",,,"SJEL"
@@ -50700,7 +50700,7 @@
 5196,"OISR","medium_airport","Lamerd Airport",27.3727,53.188801,1337,"AS","IR","IR-07","Lamerd","yes","OISR","LFM","OISR",,,"https://en.wikipedia.org/wiki/Lamerd_Airport",
 5197,"OISS","large_airport","Shiraz Shahid Dastghaib International Airport",29.5392,52.589802,4927,"AS","IR","IR-07","Shiraz","yes","OISS","SYZ","OISS",,"http://shirazairport.ir/","https://en.wikipedia.org/wiki/Shiraz_International_Airport",
 5198,"OISY","medium_airport","Yasuj Airport",30.702238,51.542988,5939,"AS","IR","IR-17","Yasuj","no","OISY","YES","OISY",,,"https://en.wikipedia.org/wiki/Yasuj_Airport","Yasouj"
-42528,"OITH","small_airport","Khaneh Airport",36.733341,45.150002,4804,"AS","IR","IR-04","Khaneh","no","OITH","KHA","OITH",,,"https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1",
+42528,"OITH","small_airport","Khaneh Airport",36.729096,45.158084,4804,"AS","IR","IR-04","Khaneh","no","OITH","KHA","OITH",,,"https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D9%BE%DB%8C%D8%B1%D8%A7%D9%86%D8%B4%D9%87%D8%B1",
 5199,"OITK","small_airport","Khoy Airport",38.4275016784668,44.97359848022461,3981,"AS","IR","IR-04","Khoy","no","OITK","KHY","OITK",,,"https://en.wikipedia.org/wiki/Khoy_Airport",
 5200,"OITL","medium_airport","Ardabil Airport",38.3256988525,48.4244003296,4315,"AS","IR","IR-24","Ardabil","yes","OITL","ADU","OITL",,,"https://en.wikipedia.org/wiki/Ardabil_Airport",
 5201,"OITM","small_airport","Sahand Airport",37.347999572753906,46.127899169921875,4396,"AS","IR","IR-03","Maragheh","no","OITM","ACP","OITM",,,"https://en.wikipedia.org/wiki/Sahand_Airport","Maragheh Highway Strip"
