@@ -15463,21 +15463,20 @@
 36587,"BR-2625","small_airport","Fazenda ANB Airport",-19.83254,-54.836578,1194,"SA","BR","BR-MS","Corguinho","no",,,,,,,"SJHT"
 36589,"BR-2626","heliport","FIEP Heliport",-25.448697,-49.244206,2918,"SA","BR","BR-PR","Curitiba","no",,,"SNR4","PR0250",,,"SJHV"
 36592,"BR-2627","heliport","Paiva Air Heliport",-23.559168,-47.199722,2730,"SA","BR","BR-SP","Mairinque","no",,,,"SP0717",,,"SJHY, SNNA, BR-2627"
-36593,"BR-2628","small_airport","Fazenda Dois Netos Airport",-13.245555877686,-54.033889770508,1165,"SA","BR","BR-MT","Paranatinga","no",,,,"SJHZ",,,"SJHZ"
-36598,"BR-2629","small_airport","Grupo Scheffer Airport",-13.547941,-58.858556,1739,"SA","BR","BR-MT","Sapezal","no",,,,"MT0182",,,"SJIE, Aero Agrícola Sapezal, SJIF, BR-2629"
-36600,"BR-2630","heliport","Polícia Federal do Espírito Santo Heliport",-20.327796,-40.353806,62,"SA","BR","BR-ES","Vila Velha","no",,,,"SJIH",,,"SJIH"
-36601,"BR-2631","small_airport","Fazenda São Marcos Airport",-22.296667098999,-54.941387176514,1395,"SA","BR","BR-MS","Dourados","no",,,,"SJII",,,"SJII"
-36602,"BR-2632","small_airport","Fazenda Amparo Airport",-17.781944274902,-53.461109161377,2766,"SA","BR","BR-MT","Alto Taquari","no",,,,"SJIJ",,,"SJIJ"
-36604,"BR-2633","heliport","Major PM oswaldo Cândido Nunes Heliport",-18.705833435059,-40.407222747803,436,"SA","BR","BR-ES","Nova Venécia","no",,,,"SJIM",,,"SJIM"
-36605,"BR-2634","heliport","Hotel Ariau Amazon Towers II Heliport",-3.091943,-60.442148,98,"SA","BR","BR-AM","Iranduba","no",,,,"SJIN",,,"SJIN"
-36606,"BR-2635","small_airport","Guararapes Airport",-26.991943359375,-50.383056640625,3609,"SA","BR","BR-SC","Santa Cecília","no",,,,"SJIO",,,"SJIO"
+36593,"BR-2628","small_airport","Fazenda Dois Netos Airport",-13.245556,-54.03389,1165,"SA","BR","BR-MT","Paranatinga","no",,,,,,,"SJHZ"
+36598,"BR-2629","small_airport","Grupo Scheffer Airport",-13.547967,-58.858561,1739,"SA","BR","BR-MT","Sapezal","no",,,"SJIF","MT0182",,,"SJIE, Aero Agrícola Sapezal"
+36600,"BR-2630","heliport","Espírito Santo Federal Police Helipad",-20.327796,-40.353806,62,"SA","BR","BR-ES","Vila Velha","no",,,,,,,"SJIH"
+36601,"BR-2631","small_airport","Fazenda São Marcos Airport",-22.296667,-54.941387,1395,"SA","BR","BR-MS","Dourados","no",,,,,,,"SJII"
+36602,"BR-2632","small_airport","Fazenda Amparo Airport",-17.782311,-53.45693,2766,"SA","BR","BR-MT","Alto Taquari","no",,,,,,,"SJIJ"
+36604,"BR-2633","heliport","Major PM Oswaldo Cândido Nunes Heliport",-18.703711,-40.404295,436,"SA","BR","BR-ES","Nova Venécia","no",,,,,,,"SJIM"
+36605,"BR-2634","heliport","Hotel Ariau Amazon Towers II Heliport",-3.091943,-60.442148,98,"SA","BR","BR-AM","Iranduba","no",,,,,,,"SJIN"
+36606,"BR-2635","small_airport","Guararapes Airport",-26.989703,-50.383442,3609,"SA","BR","BR-SC","Santa Cecília","no",,,,,,,"SJIO"
 36607,"BR-2636","heliport","Ipiranga Centro Logístico Heliport",-23.419721603394,-46.376945495605,2500,"SA","BR","BR-SP","Guarulhos","no",,,,"SJIP",,,"SJIP"
 36611,"BR-2637","small_airport","Fazenda Beija-Flor Airport",-11.794166564941,-38.090831756592,555,"SA","BR","BR-BA","Esplanada","no",,,,"SJIU",,,"SJIU"
 36612,"BR-2638","small_airport","São João Airport",-29.08468,-56.212892,269,"SA","BR","BR-RS","Maçambará","no",,,,"SJIV",,,"SJIV"
-36615,"BR-2639","small_airport","São Leopoldo Airport",-4.979167,-56.927223,814,"SA","BR","BR-PA","Itaituba","no",,,,"SJIY",,,
-36617,"BR-2640","small_airport","Fazenda Jamanxin Airport",-8.375365,-55.306839,800,"SA","BR","BR-PA","Novo Progresso","no",,,,"SJJA",,,"SJJA"
-36619,"BR-2641","heliport","Ceará-Mirim Heliport",-5.5075001716614,-35.50333404541,98,"SA","BR","BR-RN","Ceará-Mirim","no",,,,"SJJC",,,"SJJC"
-36624,"BR-2642","small_airport","Pousada Rio Xingu Airport",-3.2494440078735,-51.722499847412,233,"SA","BR","BR-PA","Vitória Do Xingu","no",,,,"SJJH",,,"SJJH"
+36617,"BR-2640","small_airport","Fazenda Jamanxin Airport",-8.375365,-55.306839,800,"SA","BR","BR-PA","Novo Progresso","no",,,,,,,"SJJA"
+36619,"BR-2641","heliport","Ceará-Mirim Heliport",-5.5075,-35.503334,98,"SA","BR","BR-RN","Ceará-Mirim","no",,,,,,,"SJJC"
+36624,"BR-2642","small_airport","Pousada Rio Xingu Airport",-3.249444,-51.7225,233,"SA","BR","BR-PA","Vitória do Xingu","no",,,,,,,"SJJH"
 36628,"BR-2643","small_airport","Michels Aviação Agrícola LTDA Airport",-13.532221794128,-58.765277862549,1884,"SA","BR","BR-MT","Sapezal","no",,,,"SJJM",,,"SJJM"
 36631,"BR-2644","small_airport","São Francisco Airport",-7.8352780342102,-56.538333892822,778,"SA","BR","BR-PA","Itaituba","no",,,,"SJJP",,,"SJJP"
 36632,"BR-2645","heliport","Polícia Federal Heliport",-5.8261108398438,-35.223609924316,218,"SA","BR","BR-RN","Natal","no",,,,"SJJQ",,,"SJJQ"
@@ -15652,7 +15651,7 @@
 37171,"BR-2814","small_airport","Morada Nova de Minas Airport",-18.59388923645,-45.353057861328,1988,"SA","BR","BR-MG","Morada Nova De Minas","no",,,,"SNMM",,,"SNMM"
 37173,"BR-2815","small_airport","Morada Nova Airport",-5.0836110115051,-38.383609771729,509,"SA","BR","BR-CE","Morada Nova","no",,,,"SNMO",,,"SNMO"
 37178,"BR-2816","small_airport","Agropecuária Paralelo Dez Ltda Airport",-9.9994440078735,-61.052223205566,3035,"SA","BR","BR-MT","Aripuanã","no",,,,"SNMW",,,"SNMW"
-37179,"BR-2817","heliport","Albrás Heliport",-1.56309,-48.737519,56,"SA","BR","BR-PA","Barcarena","no",,,,"SNNA",,,"SNNA"
+37179,"BR-2817","heliport","Albrás Heliport",-1.56309,-48.737519,56,"SA","BR","BR-PA","Barcarena","no",,,,,,,"SNNA"
 37186,"BR-2818","small_airport","Fazenda Teragro Airport",-14.769444465637,-43.415279388428,1512,"SA","BR","BR-MG","Matias Cardoso","no",,,,"SNNK",,,"SNNK"
 37187,"BR-2819","heliport","Hospital de Olhos de Minas Gerais Heliport",-19.981573,-43.945617,3925,"SA","BR","BR-MG","Nova Lima","no",,,,"SNNL",,,"SNNL"
 37191,"BR-2820","small_airport","Fazenda Santa Lúcia Airport",-23.03888889,-54.7475,1640,"SA","BR","BR-MS","Porto Murtinho","no",,,,"SNNQ",,,"SNNQ"
@@ -59205,7 +59204,7 @@
 36595,"SJIB","heliport","Itabuna Heliport",-14.82404,-39.320261,217,"SA","BR","BR-BA","Itabuna","no",,,"SJIB","BA0204",,,
 36596,"SJIC","small_airport","Pedro da Costa Lima Airport",-21.244874,-52.76981,1444,"SA","BR","BR-MS","Santa Rita Do Pardo","no",,,"SJIC","MS0168",,,
 36597,"SJID","small_airport","Fazenda Goiaba Airport",-19.917221069335938,-52.63138961791992,1549,"SA","BR","BR-MS","Três Lagoas","no",,,"SJID",,,,
-36599,"SJIF","small_airport","Fazenda Nova Era Airport",-23.394166946411133,-54.752498626708984,1247,"SA","BR","BR-MS","Iguatemi","no",,,"SJIF",,,,
+36599,"SJIF","small_airport","Fazenda Nova Era Airport",-23.407549,-54.749171,1247,"SA","BR","BR-MS","Iguatemi","no",,,,,,,
 337029,"SJIG","heliport","Edifício Times Square Business Helipad",-21.206323,-47.810558,2238,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SJIG","SP0624",,,
 36603,"SJIL","small_airport","Fazenda Santa Bárbara Airport",-19.091111,-55.8425,440,"SA","BR","BR-MS","Corumbá","no",,,"SJJG","MS0173",,,"SJIL"
 36609,"SJIR","small_airport","Engenheiro Joaquim Martins Airport",-13.31104,-40.878315,1733,"SA","BR","BR-BA","Iramaia","no",,,"SJIR","BA0113",,,
@@ -63046,7 +63045,7 @@
 38176,"SWYZ","heliport","Residência Oficial Heliport",-20.327198,-40.269191,59,"SA","BR","BR-ES","Vila Velha","no",,,"SJIE","ES0020",,,"SWYZ"
 342109,"SWZ","heliport","Western Sydney International (Nancy Bird Walton) Airport",-33.879444,150.739722,228,"OC","AU","AU-NSW","Sydney (Badgerys Creek)","no",,"SWZ",,,,"https://en.wikipedia.org/wiki/Western_Sydney_Airport",
 38177,"SWZA","small_airport","Agrosan Airport",-11.397556,-58.121521,1040,"SA","BR","BR-MT","Juara","no",,,"SWZA","MT0443",,,
-38178,"SWZB","small_airport","Fazenda Arara Azul Airport",-17.005472,-56.459641,384,"SA","BR","BR-MT","Barão De Melgaço","no",,,"SJHZ","MT0181",,,"SWZB"
+38178,"SWZB","small_airport","Fazenda Arara Azul Airport",-17.005472,-56.459641,384,"SA","BR","BR-MT","Barão de Melgaço","no",,,"SJHZ","MT0181",,,"SWZB"
 38179,"SWZC","small_airport","Fazenda Corixo Airport",-16.245331,-58.894444,492,"SA","BR","BR-MT","Porto Esperidião","no",,,"SWZC","MT0444",,,
 38180,"SWZD","small_airport","Fazenda Denusa Destilaria Nova União Airport",-17.255833,-50.142674,1699,"SA","BR","BR-GO","Jandaia","no",,,"SWZD","GO0151",,,
 38181,"SWZE","small_airport","Fazenda Tamboril Airport",-15.059733,-59.379215,1099,"SA","BR","BR-MT","Pontes E Lacerda","no",,,"SWZE","MT0445",,,
