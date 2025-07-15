@@ -9619,7 +9619,7 @@
 355423,"AE-0218","heliport","Police Helipad",24.097556,52.652299,,"AS","AE","AE-AZ",,"no",,,,,,,
 355424,"AE-0219","heliport","Helipad",24.101299,52.649735,,"AS","AE","AE-AZ",,"no",,,,,,,
 516219,"AE-0220","heliport","Andaz Capital Gate Helipad",24.418764,54.43482,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
-516263,"AE-0221","medium_airport","Sas Al Nakheel Air Base",24.44128,54.51696,,"AS","AE","AE-U-A","Sas Al Nakheel","no",,,,,,,
+516263,"AE-0221","medium_airport","Sas Al Nakheel Air Base",24.44128,54.51696,14,"AS","AE","AE-AZ","Sas Al Nakheel","no",,,,,,,
 516264,"AE-0222","heliport","President Joko Widodo Mosque Heliport",24.422771,54.436072,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
 516312,"AE-0223","heliport","Marina/ADNEC Helipad",24.416929,54.433781,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
 544987,"AE-0224","heliport","SkyDive Dubai Heliport",25.091723,55.134606,3,"AS","AE","AE-DU","Dubai","no",,,,,"https://www.skydivedubai.ae/facilities/index.htm",,"Heliport"
@@ -9627,6 +9627,7 @@
 333094,"AE-0226","closed","Ras al Khaimah Al Hamra Seaplane Base",25.691,55.778,,"AS","AE","AE-RK","Ras Al Khaimah","no",,,,,,,"RHR"
 42255,"AE-0227","closed","Umm Al Quwain Airport",25.57715,55.65068,,"AS","AE","AE-UQ","Meshara","no",,,,,,,"OMUQ"
 42256,"AE-0228","closed","Asab Airfield",23.297616,54.221691,,"AS","AE","AE-AZ","Asab","no",,,,,,,"OMAC, OMAC"
+598931,"AE-0229","heliport","Dubai Jetman Helipad",24.904402,55.538491,518,"AS","AE","AE-U-A",,"no",,,,,,"https://maps.app.goo.gl/o7DCsN4pGwWfiS9w5",
 300307,"AEE","small_airport","Adareil Airport",10.053611,32.959444,1301,"AF","SS","SS-NU","Adar","no",,"AEE","HJAR",,,"https://en.wikipedia.org/wiki/Adareil_Airport",
 300646,"AEI","heliport","Algeciras Heliport",36.12882,-5.441079,98,"EU","ES","ES-AN","Algeciras","yes",,,"LEAG",,"https://www.aena.es/en/algeciras.html","https://en.wikipedia.org/wiki/Algeciras_Heliport",
 330359,"AEQ","small_airport","Ar Horqin Airport",43.908407,120.15099,1335,"AS","CN","CN-15","Chifeng","no",,"AEQ",,,,"https://en.wikipedia.org/wiki/Ar_Horqin_Airport",
@@ -18192,6 +18193,7 @@
 823,"CDV2","small_airport","Downs Gulch Airport",47.753601,-67.426102,883,"NA","CA","CA-NB","Downs Gulch","no",,,"CDV2","CDV2",,"https://en.wikipedia.org/wiki/Downs_Gulch_Aerodrome","DV2"
 824,"CDV3","heliport","Charlottetown (Queen Elizabeth Hospital) Heliport",46.255493,-63.098887,20,"NA","CA","CA-PE","Charlottetown","no",,,"CDV3","CDV3",,,"DV3"
 825,"CDW2","small_airport","Baddeck (Crown Jewel) Airport",46.165000915527344,-60.78390121459961,290,"NA","CA","CA-NS","Baddeck","no",,,"CDW2","CDW2",,"https://en.wikipedia.org/wiki/Baddeck_(Crown_Jewel)_Airport","DW2"
+598930,"CDW3","heliport","Hamlet Heliport",50.826333,-114.023833,3593,"NA","CA","CA-AB","De Winton","no",,,"CDW3","CDW3",,,
 827,"CDY3","small_airport","Fogo Airport",49.657501,-54.237499,80,"NA","CA","CA-NL","Fogo","yes",,,"CDY3","CDY3",,"https://en.wikipedia.org/wiki/Fogo_Airport","DY3"
 828,"CDY5","heliport","St. Martha's Regional Hospital Heliport",45.626836,-61.981933,70,"NA","CA","CA-NS","Antigonish","no",,,"CDY5","CDY5",,,
 829,"CDY6","small_airport","Bridgewater / Dayspring Airpark",44.3819007874,-64.456703186,150,"NA","CA","CA-NS","Bridgewater","no",,,"CDY6","CDY6",,"https://en.wikipedia.org/wiki/Bridgewater/Dayspring_Airpark","DY6"
@@ -18467,6 +18469,7 @@
 1031,"CGM2","heliport","Smoky Lake (George Mcdougall Health Centre) Heliport",54.12189865112305,-112.46600341796875,2200,"NA","CA","CA-AB","Smoky Lake","no",,,"CGM2","CGM2",,,"GM2"
 320345,"CGN3","small_airport","Gunnlaugson Airport",49.636701,-112.6916,3058,"NA","CA","CA-AB","Lethbridge","no",,,"CGN3","CGN3",,"https://en.wikipedia.org/wiki/Lethbridge_(Gunnlaugson)_Aerodrome",
 320173,"CGP2","heliport","Queen Elizabeth II Hospital Helipad",55.17597,-118.78757,2194,"NA","CA","CA-AB","Grande Prairie","no",,,"CGP2","CGP2",,,
+598944,"CGP4","heliport","Grand Prairie Regional Hospital",55.179758,-118.824055,2180,"NA","CA","CA-AB","Grand Prairie","no",,,"CGP4","CGP4","https://www.albertahealthservices.ca/gprh/gprh.aspx",,
 46612,"CGR2","heliport","Gold River (E & B Helicopters) Heliport",49.7533097005,-126.055626869,182,"NA","CA","CA-BC",,"no",,,"CGR2",,,,"gr2"
 308297,"CGR3","small_airport","George Lake Aerodrome",65.928056,-107.462222,1150,"NA","CA","CA-NU",,"no",,,"CGR3","CGR3",,"https://en.wikipedia.org/wiki/George_Lake_Aerodrome",
 320316,"CGR4","heliport","The Ridge Heliport",49.7832,-126.043701,478,"NA","CA","CA-BC","Gold River","no",,,"CGR4","CGR4",,,
@@ -18543,6 +18546,7 @@
 1038,"CHJ4","heliport","Boyle (Healthcare Centre) Heliport",54.588661,-112.801913,2150,"NA","CA","CA-AB","Boyle","no",,,"CHJ4","CHJ4",,,
 320651,"CHL2","small_airport","Hillaton/Kings Aerodrome",45.1442,-64.4229,89,"NA","CA","CA-NS","Hillaton","no",,,"CHL2","CHL2",,"https://en.wikipedia.org/wiki/Hillaton/Kings_Aerodrome",
 28193,"CHL3","seaplane_base","Church Lake Seaplane Base",44.559399,-64.612198,280,"NA","CA","CA-NS",,"no",,,"CHL3","CHL3",,"https://en.wikipedia.org/wiki/Church_Lake_Water_Aerodrome",
+598932,"CHL5","heliport","Monashee Helicopters Heliport",58.514165,-117.114725,1060,"NA","CA","CA-AB","High Level","no",,,"CHL5","CHL5",,,
 28265,"CHL6","seaplane_base","Huntsville (North) Seaplane Base",45.331402,-79.258102,931,"NA","CA","CA-ON",,"no",,,"CHL6","CHL6",,"https://en.wikipedia.org/wiki/Huntsville_(North)_Water_Aerodrome",
 298376,"CHM2","small_airport","Spiritwood / H & M Fast Farms",53.275,-107.570278,2250,"NA","CA","CA-SK",,"no",,,"CHM2","CHM2",,"https://en.wikipedia.org/wiki/Spiritwood/H_%26_M_Fast_Farms_Aerodrome","HM2"
 16713,"CHP","small_airport","Circle Hot Springs Airport",65.485496521,-144.610992432,956,"NA","US","US-AK","Circle Hot Springs","no",,"CHP","CHP","CHP",,"https://en.wikipedia.org/wiki/Circle_Hot_Springs_Airport",
@@ -20833,7 +20837,7 @@
 1845,"CYPE","medium_airport","Peace River Airport",56.226898,-117.446999,1873,"NA","CA","CA-AB","Peace River","yes","CYPE","YPE","CYPE",,,"https://en.wikipedia.org/wiki/Peace_River_Airport",
 1846,"CYPG","medium_airport","Portage-la-Prairie / Southport Airport",49.903099,-98.273817,885,"NA","CA","CA-MB","Portage la Prairie","no","CYPG","YPG","CYPG",,"http://southport.ca/","https://en.wikipedia.org/wiki/Portage_La_Prairie/Southport_Airport",
 1847,"CYPH","small_airport","Inukjuak Airport",58.471901,-78.076897,83,"NA","CA","CA-QC","Inukjuak","yes","CYPH","YPH","CYPH",,,"https://en.wikipedia.org/wiki/Inukjuak_Airport",
-1848,"CYPK","medium_airport","Pitt Meadows Airport",49.216099,-122.709999,11,"NA","CA","CA-BC","Pitt Meadows","yes",,,"CYPK",,,"https://en.wikipedia.org/wiki/Pitt_Meadows_Airport","YPK"
+1848,"CYPK","medium_airport","Pitt Meadows Airport",49.216099,-122.709999,11,"NA","CA","CA-BC","Pitt Meadows","yes","CYPK",,"CYPK",,,"https://en.wikipedia.org/wiki/Pitt_Meadows_Airport","YPK"
 1849,"CYPL","medium_airport","Pickle Lake Airport",51.4463996887207,-90.21420288085938,1267,"NA","CA","CA-ON","Pickle Lake","yes","CYPL","YPL","CYPL",,,"https://en.wikipedia.org/wiki/Pickle_Lake_Airport",
 1850,"CYPM","small_airport","Pikangikum Airport",51.819698,-93.973297,1114,"NA","CA","CA-ON","Pikangikum","yes","CYPM","YPM","CYPM",,,"https://en.wikipedia.org/wiki/Pikangikum_Airport",
 1851,"CYPN","medium_airport","Port-Menier Airport",49.836399,-64.288597,167,"NA","CA","CA-QC","Port-Menier","yes","CYPN","YPN","CYPN",,,"https://en.wikipedia.org/wiki/Port-Menier_Airport","Anticosti"
@@ -30010,7 +30014,7 @@
 3195,"HEOW","small_airport","El Owainat East International Airport",22.584256,28.721609,843,"AF","EG","EG-WAD","Sharq El Owainat","no","HEOW","GSQ","HEOW",,,"https://en.wikipedia.org/wiki/Sharq_El_Owainat_Airport",
 3196,"HEPS","medium_airport","Port Said International Airport",31.279285,32.240582,10,"AF","EG","EG-PTS","Port Said","no","HEPS","PSD","HEPS",,"http://en.wikipedia.org/wiki/Port_Said_Airport","https://en.wikipedia.org/wiki/Port_Said_Airport","El Gamil"
 3197,"HESC","medium_airport","Saint Catherine International Airport",28.684601,34.062681,4402,"AS","EG","EG-JS","Saint Catherine","no","HESC","SKV","HESC",,,"https://en.wikipedia.org/wiki/St._Catherine_International_Airport",
-300893,"HESG","large_airport","Suhaj Mubarak International Airport",26.342515,31.743017,322,"AF","EG","EG-SHG","Suhaj","yes","HESG","HMB","HESG",,,"https://en.wikipedia.org/wiki/Sohag_International_Airport","HEMK, Mubarak International Airport"
+300893,"HESG","large_airport","Sohag International Airport",26.342515,31.743017,322,"AF","EG","EG-SHG","Suhaj","yes","HESG","HMB","HESG",,,"https://en.wikipedia.org/wiki/Sohag_International_Airport","HEMK, Suhaj Mubarak International Airport"
 3198,"HESH","large_airport","Sharm El Sheikh International Airport",27.977272,34.394717,191,"AS","EG","EG-JS","Sharm El Sheikh","yes","HESH","SSH","HESH",,,"https://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport",
 3199,"HESN","medium_airport","Aswan International Airport",23.968137,32.824445,650,"AF","EG","EG-ASN","Aswan","yes","HESN","ASW","HESN",,"https://aswan-airport.com","https://en.wikipedia.org/wiki/Aswan_International_Airport","aswan airport"
 32285,"HESW","small_airport","Siwa Oasis North Airport",29.346234,25.505624,289,"AF","EG","EG-MT","Siwa Oasis","yes",,"SEW","HESW",,,,"HE24"
