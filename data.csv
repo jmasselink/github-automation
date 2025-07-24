@@ -15489,12 +15489,12 @@
 36617,"BR-2640","small_airport","Fazenda Jamanxin Airport",-8.375365,-55.306839,800,"SA","BR","BR-PA","Novo Progresso","no",,,,,,,"SJJA"
 36619,"BR-2641","heliport","Ceará-Mirim Heliport",-5.5075,-35.503334,98,"SA","BR","BR-RN","Ceará-Mirim","no",,,,,,,"SJJC"
 36624,"BR-2642","small_airport","Pousada Rio Xingu Airport",-3.249444,-51.7225,233,"SA","BR","BR-PA","Vitória do Xingu","no",,,,,,,"SJJH"
-36628,"BR-2643","small_airport","Michels Aviação Agrícola LTDA Airport",-13.532221794128,-58.765277862549,1884,"SA","BR","BR-MT","Sapezal","no",,,,"SJJM",,,"SJJM"
-36631,"BR-2644","small_airport","São Francisco Airport",-7.8352780342102,-56.538333892822,778,"SA","BR","BR-PA","Itaituba","no",,,,"SJJP",,,"SJJP"
-36632,"BR-2645","heliport","Polícia Federal Heliport",-5.8261108398438,-35.223609924316,218,"SA","BR","BR-RN","Natal","no",,,,"SJJQ",,,"SJJQ"
-36637,"BR-2646","small_airport","Fazenda Pilar Airport",-3.278693,-56.201354,499,"SA","BR","BR-PA","Aveiro","no",,,,"SJJV",,,"SJJV"
-36638,"BR-2647","small_airport","Fazenda Santa Emília Airport",-19.507939,-55.614402,443,"SA","BR","BR-MS","Aquidauana","no",,,,"SJJW",,,"SJJW"
-36644,"BR-2648","small_airport","Fazenda Costa Norte II Airport",-9.291942,-58.033236,787,"SA","BR","BR-MT","Apiacás","no",,,,"SJKC",,,"SJKC"
+36628,"BR-2643","small_airport","Michels Aviação Agrícola LTDA Airport",-13.532222,-58.765278,1884,"SA","BR","BR-MT","Sapezal","no",,,,,,,"SJJM"
+36631,"BR-2644","small_airport","São Francisco Airport",-7.833142,-56.540272,778,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SJJP"
+36632,"BR-2645","heliport","Federal Police Helipad",-5.826277,-35.223729,218,"SA","BR","BR-RN","Natal","no",,,,,,,"SJJQ"
+36637,"BR-2646","small_airport","Fazenda Pilar Airport",-3.278693,-56.201354,499,"SA","BR","BR-PA","Aveiro","no",,,,,,,"SJJV"
+36638,"BR-2647","small_airport","Fazenda Santa Emília Airport",-19.507939,-55.614402,443,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SJJW"
+36644,"BR-2648","small_airport","Fazenda Costa Norte II Airport",-9.291942,-58.033236,787,"SA","BR","BR-MT","Apiacás","no",,,,,,,"SJKC"
 36646,"BR-2649","heliport","Sellix Heliport",-22.747128,-42.832434,72,"SA","BR","BR-RJ","Itaboraí","no",,,,,,,"SJKE"
 36648,"BR-2650","small_airport","Fazenda Jatobá Airport",-3.503126,-54.09343,499,"SA","BR","BR-PA","Uruará","no",,,,,,,"SJKG"
 36659,"BR-2651","small_airport","KRB Airstrip",-6.078767,-56.389514,706,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SJKR"
@@ -15502,10 +15502,10 @@
 36689,"BR-2653","small_airport","Orinduque Airport",4.737297,-60.03273,1896,"SA","BR","BR-RR","Uiramutã","no",,,,"SJLZ",,,"SJLZ"
 36696,"BR-2654","heliport","Maguinhos Heliport",-22.771295,-41.926081,5,"SA","BR","BR-RJ","Armação Dos Búzios","no",,,,"SJMG",,,"SJMG"
 36718,"BR-2655","small_airport","Nova Descoberta Airport",-6.6188888549805,-56.692501068115,821,"SA","BR","BR-PA","Itaituba","no",,,,"SJND",,,"SJND"
-36722,"BR-2656","small_airport","Fazenda Nhu-Verá Airport",-18.027221679688,-55.460277557373,492,"SA","BR","BR-MS","Corumbá","no",,,,"SJNH",,,"SJNH"
-36723,"BR-2657","small_airport","Fazenda Mutum Airport",-13.919721603394,-56.084442138672,1575,"SA","BR","BR-MT","Nova Mutum","no",,,,"SJNI",,,"SJNI"
-36724,"BR-2658","small_airport","Fazenda Lakanka Airport",-15.436083,-51.583798,892,"SA","BR","BR-GO","Jussara","no",,,,"SJNJ",,,"SJNJ"
-36728,"BR-2659","small_airport","Fazenda Botelho Airport",-10.218966,-64.34348,535,"SA","BR","BR-RO","Nova Mamoré","no",,,,"SJNN",,,"SJNN"
+36722,"BR-2656","small_airport","Fazenda Nhu-Verá Airport",-18.027222,-55.460278,492,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SJNH"
+36723,"BR-2657","small_airport","Fazenda Mutum Airport",-13.907346,-56.083857,1575,"SA","BR","BR-MT","Nova Mutum","no",,,,,,,"SJNI"
+36724,"BR-2658","small_airport","Fazenda Lakanka Airport",-15.436083,-51.583798,892,"SA","BR","BR-GO","Jussara","no",,,,,,,"SJNJ"
+36728,"BR-2659","small_airport","Fazenda Botelho Airport",-10.218966,-64.34348,535,"SA","BR","BR-RO","Nova Mamoré","no",,,,,,,"SJNN"
 36732,"BR-2660","small_airport","Norte Jet Airport",-1.307274,-48.255972,88,"SA","BR","BR-PA","Benevides","no",,,,"SJNR",,,"SJNR"
 36733,"BR-2661","small_airport","Ilha dos Macacos Airport",-9.2255563735962,-57.022499084473,1266,"SA","BR","BR-MT","Paranaíta","no",,,,"SJNS",,,"SJNS"
 36734,"BR-2662","heliport","Higienópolis Medical Center Helipad",-23.550041,-46.658642,2884,"SA","BR","BR-SP","São Paulo","no",,,,"SJNT",,,"SJNT"
@@ -33085,6 +33085,7 @@
 331921,"IT-0806","closed","San Leo Airfield",43.918255,12.319971,,"EU","IT","IT-57","San Leo (RN)","no",,,,,,,"LIDS"
 331922,"IT-0807","closed","Vigna di Valle",42.0844444,12.2183333,886,"EU","IT","IT-62",,"no",,,,,,,"LIRB, LIRB"
 31822,"IT-0808","small_airport","Aviosuperficie Airone",37.113977,14.214206,82,"EU","IT","IT-82","Gela","no",,,,,,,"LICL"
+599222,"IT-0809","small_airport","Aviovitombola Ultralight Strip",43.17619,11.79623,,"EU","IT","IT-52",,"no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,,"EU","IT","IT-75","Tremiti Islands","yes",,,"LINI",,,"https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -53256,7 +53257,7 @@
 43783,"PT-0015","heliport","Loule heliport",37.131523,-8.033168,404,"EU","PT","PT-08","Loule","no",,,"LPLO",,,,
 43784,"PT-0016","heliport","Nisa heliport",39.505353,-7.644253,984,"EU","PT","PT-12","Nisa","no",,,,,,,
 317209,"PT-0017","closed","Alentejo Air Park",37.465556,-8.737222,422,"EU","PT","PT-02",,"no",,,,,,,"LP78"
-43786,"PT-0018","heliport","Santa Maria Da Feira heliport",40.93014907836914,-8.542390823364258,485,"EU","PT","PT-01","Santa Maria Da Feira","no",,,,,,,
+43786,"PT-0018","heliport","Santa Maria da Feira Heliport",40.93005,-8.54234,485,"EU","PT","PT-01","Santa Maria da Feira","no",,,,,,,
 43787,"PT-0019","heliport","Sines Heliport",37.954969,-8.879527,104,"EU","PT","PT-15","Sines","no","LPSI",,"LPSI",,,,
 314015,"PT-0020","small_airport","Aerodromo de Cabeceiras de Basto UL",41.556444,-7.985086,2410,"EU","PT","PT-03","Cabeceiras de Basto","no",,,,"LP53",,,
 298559,"PT-0021","small_airport","Benavente UL",38.914227,-8.786981,130,"EU","PT","PT-14","Benavente","no",,,,"LP52","https://www.aerolazer.pt",,"Campo de Vôo de Benavente, VLS, Microlight"
@@ -54150,6 +54151,7 @@
 598639,"RO-0133","heliport","Petromar Naval Helipad",44.22053,28.623247,,"EU","RO","RO-CT",,"no",,,,,,,
 598640,"RO-0134","heliport","Petromidia Refinery Emergency Helipad",44.343863,28.642366,,"EU","RO","RO-CT",,"no",,,,,,,
 599109,"RO-0135","heliport","Ploiesti Aero Taxi Heliport",44.964956,25.901118,735,"EU","RO","RO-PH","Ploiești","no","LRPH",,"LRPH",,,,
+599226,"RO-0136","heliport","Emergency Clinical Hospital for Children ""Maria Skłodowska Curie"" Helipad",44.389904,26.109164,,"EU","RO","RO-B",,"no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
