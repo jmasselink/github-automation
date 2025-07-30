@@ -12737,6 +12737,7 @@
 598543,"BH-0021","closed","Bahrain International Karting Circuit Helipad",26.024461,50.506666,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598544,"BH-0022","closed","Bahrain International Circuit South Helipad",26.027766,50.511129,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598579,"BH-0023","heliport","Sheik Isa Air Base Helipad",25.946174,50.608078,,"AS","BH","BH-14","Al Dur","no",,,,,,,
+599376,"BH-0024","medium_airport","jun88hinfo2",60,60,,"AS","BH","BH-16","Hồ Chí Minh","yes",,,,,"https://jun88h.info/",,
 30705,"BHL","small_airport","Bahía de los Ángeles Airport",28.9786,-113.560997,34,"NA","MX","MX-BCN","Ensenada","no",,"BHL",,"BAX",,"https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport",
 302410,"BHT","small_airport","Brighton Downs Airport",-23.363333,141.562778,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
 318985,"BI-0001","small_airport","Ruyigi Airport",-3.471371,30.231485,5194,"AF","BI","BI-RY","Ruyigi","no",,,,,,,
@@ -15522,34 +15523,34 @@
 36773,"BR-2672","small_airport","Fazenda Palma Airport",-16.189444,-48.078056,3297,"SA","BR","BR-GO","Luziânia","no",,,,,,,"SJPH"
 36776,"BR-2673","small_airport","Marcos da Cunha Airport",-12.361141,-46.135175,2815,"SA","BR","BR-BA","Luís Eduardo Magalhães","no",,,,,,,"SJPK"
 36777,"BR-2674","small_airport","Fazenda Austrália Airport",-21.975166,-54.139804,1116,"SA","BR","BR-MS","Deodápolis","no",,,,,,,"SJPL"
-36779,"BR-2675","heliport","Campan Heliport",-23.041944503784,-50.055278778076,1661,"SA","BR","BR-PR","Cambará","no",,,,"SJPN",,,"SJPN"
+36779,"BR-2675","heliport","Campan Heliport",-23.041945,-50.055279,1661,"SA","BR","BR-PR","Cambará","no",,,,,,,"SJPN"
 36784,"BR-2676","small_airport","Fazenda Monte Belo Airport",-14.982275,-57.991601,636,"SA","BR","BR-MT","Barra do Bugres","no",,,,,,,"SJPS"
-36786,"BR-2677","small_airport","Pau d'Arco Airport",-7.118999,-56.809266,866,"SA","BR","BR-PA","Itaituba","no",,,,"SJPU",,,"SJPU"
+36786,"BR-2677","small_airport","Pau d'Arco Airport",-7.118999,-56.809266,866,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SJPU"
 36793,"BR-2678","small_airport","Fazenda Symalu Airport",-8.32902,-51.100767,601,"SA","BR","BR-PA","Cumaru do Norte","no",,,,,,,"SJQB"
 36795,"BR-2679","small_airport","Fazenda São Roque do Vale do Rio Negro Airport",-19.372828,-56.346277,296,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SJQD"
 36799,"BR-2680","small_airport","Fazenda Tempero Seco Airport",-9.402228,-66.695724,375,"SA","BR","BR-AM","Lábrea","no",,,,,,,"SJQH"
 36801,"BR-2681","heliport","Jomarca II Heliport",-23.98982,-46.24246,30,"SA","BR","BR-SP","Guarujá","no",,,,,,,"SJQJ"
 36804,"BR-2682","heliport","Unidade Administrativa Conjunta do IAP/BPAMB Heliport",-25.514167785645,-48.499168395996,27,"SA","BR","BR-PR","Paranaguá","no",,,,"SJQO",,,"SJQO"
 36807,"BR-2683","small_airport","Paredão da Serra Airport",-15.471943855286,-55.720001220703,2117,"SA","BR","BR-MT","Chapada Dos Guimarães","no",,,,"SJQS",,,"SJQS"
-36809,"BR-2684","heliport","Mantiqueira Heliport",-22.334167480469,-44.904167175293,3160,"SA","BR","BR-MG","Itanhandu","no",,,,"SJQU",,,"SJQU"
-36810,"BR-2685","small_airport","Usina Santa Luiza Airport",-21.509166717529,-48.19722366333,1978,"SA","BR","BR-SP","Motuca","no",,,,"SJQV",,,"SJQV"
-36814,"BR-2686","small_airport","Dona Iracema Airport",-10.606389045715,-48.348609924316,919,"SA","BR","BR-TO","Porto Nacional","no",,,,"SJQZ",,,"SJQZ"
-36815,"BR-2687","small_airport","Pesqueiro Xingu Airport",-5.7750000953674,-52.622222900391,525,"SA","BR","BR-PA","São Félix Do Xingu","no",,,,"SJRA",,,"SJRA"
-36824,"BR-2688","small_airport","Agromineral Mutum Airport",-7.6402778625488,-56.787776947021,752,"SA","BR","BR-PA","Itaituba","no",,,,"SJRJ",,,"SJRJ"
-36826,"BR-2689","small_airport","Fazenda do Açucar Airport",-14.459435,-56.053869,1001,"SA","BR","BR-MT","Nobres","no",,,,"SJRL",,,"SJRL"
-36834,"BR-2690","small_airport","Fazenda Arrendamento Airport",-14.369443893433,-54.002498626709,1499,"SA","BR","BR-MT","Paranatinga","no",,,,"SJRT",,,"SJRT"
-36835,"BR-2691","heliport","Maria Cecília Lara Campos Heliport",-23.59055519104,-46.683055877686,2595,"SA","BR","BR-SP","São Paulo","no",,,,"SJRU",,,"SJRU"
-36842,"BR-2692","heliport","Ilha Guaíba Heliport",-23.006666183472,-44.031665802002,197,"SA","BR","BR-RJ","Mangaratiba","no",,,,"SJSB",,,"SJSB"
+36809,"BR-2684","heliport","Mantiqueira Heliport",-22.334261,-44.904451,3160,"SA","BR","BR-MG","Itanhandu","no",,,,,,,"SJQU"
+36810,"BR-2685","small_airport","Usina Santa Luiza Airport",-21.509167,-48.197224,1978,"SA","BR","BR-SP","Motuca","no",,,,,,,"SJQV"
+36814,"BR-2686","small_airport","Dona Iracema Airport",-10.606964,-48.348938,919,"SA","BR","BR-TO","Porto Nacional","no",,,,,,,"SJQZ"
+36815,"BR-2687","small_airport","Pesqueiro Xingu Airport",-5.775964,-52.622373,525,"SA","BR","BR-PA","São Félix do Xingu","no",,,,,,,"SJRA"
+36824,"BR-2688","small_airport","Agromineral Mutum Airport",-7.640309,-56.78745,752,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SJRJ"
+36826,"BR-2689","small_airport","Fazenda do Açucar Airport",-14.459435,-56.053869,1001,"SA","BR","BR-MT","Nobres","no",,,,,,,"SJRL"
+36834,"BR-2690","small_airport","Fazenda Arrendamento Airport",-14.369476,-54.002522,1499,"SA","BR","BR-MT","Paranatinga","no",,,,,,,"SJRT"
+36835,"BR-2691","heliport","Maria Cecília Lara Campos Heliport",-23.590301,-46.682711,2595,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SJRU"
+36842,"BR-2692","heliport","Ilha Guaíba Heliport",-23.007103,-44.032161,197,"SA","BR","BR-RJ","Mangaratiba","no",,,,,,,"SJSB"
 36843,"BR-2693","small_airport","Fazenda São Sebastião do Castelo Airport",-18.661111831665,-57.623889923096,358,"SA","BR","BR-MS","Corumbá","no",,,,"SJSC",,,"SJSC"
-36846,"BR-2694","small_airport","Agropecuária Barrinha Airport",-19.831655,-49.679395,1310,"SA","BR","BR-MG","São Francisco Sales","no",,,,"SJSF",,,"SJSF"
-36849,"BR-2695","small_airport","Fazenda São José do Cangalha Airport",-19.515556335449,-52.604721069336,1201,"SA","BR","BR-MS","Água Clara","no",,,,"SJSJ",,,"SJSJ"
-36850,"BR-2696","small_airport","Mário Spada Airport",-17.52833366394,-42.383609771729,3271,"SA","BR","BR-MG","Minas Novas","no",,,,"SJSK",,,"SJSK"
-36852,"BR-2697","small_airport","Fazenda Santa Rita Airport",-19.007837,-50.951318,1451,"SA","BR","BR-GO","Itarumã","no",,,,"SJSM",,,"SJSM"
-36855,"BR-2698","heliport","Palma Heliport",-16.188333511353,-48.07555770874,3320,"SA","BR","BR-GO","Luziânia","no",,,,"SJSQ",,,"SJSQ"
-36860,"BR-2699","heliport","Natal Mar Heliport",-5.8652777671814,-35.180278778076,82,"SA","BR","BR-RN","Natal","no",,,,"SJSW",,,"SJSW"
-36861,"BR-2700","heliport","Resgate Região Oceânica Heliport",-22.938888549805,-43.060832977295,56,"SA","BR","BR-RJ","Niterói","no",,,,"SJSY",,,"SJSY"
-36862,"BR-2701","heliport","Usina Mundial Heliport",-21.195278167725,-51.218334197998,1214,"SA","BR","BR-SP","Mirandópolis","no",,,,"SJSZ",,,"SJSZ"
-36863,"BR-2702","small_airport","Cristal Airport",-22.181667327881,-50.492500305176,1355,"SA","BR","BR-SP","Borá","no",,,,"SJTA",,,"SJTA"
+36846,"BR-2694","small_airport","Agropecuária Barrinha Airport",-19.831655,-49.679395,1310,"SA","BR","BR-MG","São Francisco Sales","no",,,,,,,"SJSF"
+36849,"BR-2695","small_airport","Fazenda São José do Cangalha Airport",-19.519453,-52.603884,1201,"SA","BR","BR-MS","Água Clara","no",,,,,,,"SJSJ"
+36850,"BR-2696","small_airport","Mário Spada Airport",-17.521903,-42.388283,3271,"SA","BR","BR-MG","Minas Novas","no",,,,,,,"SJSK"
+36852,"BR-2697","small_airport","Fazenda Santa Rita Airport",-19.007837,-50.951318,1451,"SA","BR","BR-GO","Itarumã","no",,,,,,,"SJSM"
+36855,"BR-2698","heliport","Palma Heliport",-16.188276,-48.075832,3320,"SA","BR","BR-GO","Luziânia","no",,,,,,,"SJSQ"
+36860,"BR-2699","heliport","Natal Mar Heliport",-5.865529,-35.180596,82,"SA","BR","BR-RN","Natal","no",,,,,,,"SJSW"
+36861,"BR-2700","heliport","Resgate Região Oceânica Heliport",-22.938889,-43.060833,56,"SA","BR","BR-RJ","Niterói","no",,,,,,,"SJSY"
+36862,"BR-2701","heliport","Usina Mundial Heliport",-21.195278,-51.218334,1214,"SA","BR","BR-SP","Mirandópolis","no",,,,,,,"SJSZ"
+36863,"BR-2702","small_airport","Cristal Airport",-22.181961,-50.493064,1355,"SA","BR","BR-SP","Borá","no",,,,,,,"SJTA"
 36866,"BR-2703","heliport","Praia do Algodão Heliport",-22.991111755371,-44.422779083252,69,"SA","BR","BR-RJ","Angra Dos Reis","no",,,,"SJTE",,,"SJTE"
 36868,"BR-2704","small_airport","Fazenda Calcário Tangará Airport",-14.450278282166,-57.800556182861,1831,"SA","BR","BR-MT","Tangará Da Serra","no",,,,"SJTG",,,"SJTG"
 36869,"BR-2705","small_airport","Fazenda Iapó Airport",-24.527778625488,-50.365833282471,2700,"SA","BR","BR-PR","Tibagi","no",,,,"SJTI",,,"SJTI"
@@ -61806,7 +61807,7 @@
 598985,"SS6B","small_airport","Fazenda Americana Airport",-11.796623,-49.107027,1020,"SA","BR","BR-TO","Cariri do Tocantins","no",,,"SS6B","TO0153",,,
 598984,"SS6C","small_airport","Fazenda Mafisa Airstrip",-8.081043,-44.954583,1637,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SS6C","PI0118",,,
 599347,"SS6E","small_airport","Aerosítio Airport",-3.84334,-38.445139,59,"SA","BR","BR-CE","Eusébio","no",,,"SS6E","CE0117",,,
-599348,"SS6G","heliport","Uberlândia Federal Hospital Helipad",-18.881432,-48.260474,3186,"SA","BR","BR-MG","Uberlândia","no",,,"SS6G","MG0457",,,"UFU-8DJU"
+599348,"SS6G","heliport","Uberlândia Federal University Hospital Helipad",-18.881432,-48.260474,3186,"SA","BR","BR-MG","Uberlândia","no",,,"SS6G","MG0457",,,"UFU-8DJU"
 599349,"SS6H","small_airport","Fazenda São Judas Tadeu Airport",-20.928857,-52.683081,1151,"SA","BR","BR-MS","Brasilândia","no",,,"SS6H","MS0780",,,
 598551,"SS7Z","small_airport","Fazenda Paraiso Arpa Airport",-11.298736,-49.63974,650,"SA","BR","BR-TO","Dueré","no",,,"SS7Z","TO0154",,,
 598536,"SS82","small_airport","Carará Airport",-0.075011,-53.11976,529,"SA","BR","BR-PA","Almeirim","no",,,"SS82","PA0426",,,
