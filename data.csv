@@ -14357,7 +14357,7 @@
 343156,"BR-1498","heliport","WYDA Heliport",-23.443374,-47.436444,1919,"SA","BR","BR-SP","Sorocaba","no",,,"SWQD","SP1291",,,
 343158,"BR-1499","small_airport","Dom Rodrigo El Manco Airstrip",-3.941944,-41.669722,325,"SA","BR","BR-PI","Piracuruca","no",,,"SWPV","PI0077",,,
 343163,"BR-1500","small_airport","Fazenda Girassol Airport",-16.844307,-54.045938,2464,"SA","BR","BR-MT","Pedra Preta","no",,,"SWOV","MT0471",,,
-343169,"BR-1501","small_airport","Fazenda San Diego Airport",-15.347406,-54.673473,,"SA","BR","BR-MT","Campo Verde","no",,,"2136",,,,
+343169,"BR-1501","small_airport","Fazenda San Diego Airport",-15.346269,-54.674269,2159,"SA","BR","BR-MT","Campo Verde","no",,,"SWOO","MT0567",,,
 343170,"BR-1502","heliport","Coudelaria Rocas do Vouga Heliport",-23.298058,-47.402723,1847,"SA","BR","BR-SP","Itu","no",,,"SWOJ","SP1277",,,
 343171,"BR-1503","small_airport","Fazenda Nova Esperança Airstrip",-15.872767,-57.352044,784,"SA","BR","BR-MT","Cáceres","no",,,"SWOI","MT0647",,,
 343175,"BR-1504","small_airport","Fazenda Jamaica Airport",-11.93208,-51.615657,1102,"SA","BR","BR-MT","Serra Nova Dourada","no",,,"SWNZ","MT0648",,,
@@ -15554,7 +15554,7 @@
 36868,"BR-2704","small_airport","Fazenda Calcário Tangará Airport",-14.450278282166,-57.800556182861,1831,"SA","BR","BR-MT","Tangará Da Serra","no",,,,"SJTG",,,"SJTG"
 36869,"BR-2705","small_airport","Fazenda Iapó Airport",-24.527778625488,-50.365833282471,2700,"SA","BR","BR-PR","Tibagi","no",,,,"SJTI",,,"SJTI"
 36871,"BR-2706","small_airport","Ecofly Airport",-22.296943664551,-48.120277404785,2129,"SA","BR","BR-SP","Brotas","no",,,,"SJTK",,,"SJTK"
-36874,"BR-2707","small_airport","Fazenda Alvorada do Caxingó Airport",-13.375,-46.897499084473,1742,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,,"SJTN",,,"SJTN"
+36874,"BR-2707","small_airport","Fazenda Alvorada do Caxingó Airport",-13.374544,-46.899301,1742,"SA","BR","BR-GO","Monte Alegre de Goiás","no",,,,,,,"SJTN"
 36875,"BR-2708","small_airport","São José Airport",-14.151931,-57.786648,2083,"SA","BR","BR-MT","Campo Novo do Parecis","no",,,,,,,"SJTO"
 36877,"BR-2709","small_airport","Fazenda Santa Tereza Airport",-22.371655,-43.249449,2087,"SA","BR","BR-RJ","Petrópolis","no",,,,,,,"SJTQ"
 36878,"BR-2710","heliport","Angélica IV Heliport",-23.5539,-46.662776,2933,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SJTR"
@@ -15689,7 +15689,7 @@
 37242,"BR-2839","small_airport","Brejo Airport",-3.666944,-42.833889,328,"SA","BR","BR-MA","Brejo","no",,,,"SNRJ",,,"SNRJ"
 37243,"BR-2840","heliport","Fazenda Salto de Bota Heliport",-22.313333511353,-48.018890380859,2372,"SA","BR","BR-SP","Brotas","no",,,,"SNRO",,,"SNRO"
 37246,"BR-2841","small_airport","Fazenda Barreiro Airport",-9.90712,-48.635044,1033,"SA","BR","BR-TO","Miracema do Tocantins","no",,,,"SNRW",,,"SNRW"
-37248,"BR-2842","small_airport","Fazenda Bom Sucesso Airport",-17.608610153198,-46.703887939453,2454,"SA","BR","BR-MG","Vazante","no",,,,"SNSA",,,"SNSA"
+37248,"BR-2842","small_airport","Fazenda Bom Sucesso Airport",-17.608448,-46.698738,1821,"SA","BR","BR-MG","Vazante","no",,,"SD14","MG0648",,,"SNSA"
 37249,"BR-2843","small_airport","São Bento Airport",-2.7044439315796,-44.844722747803,230,"SA","BR","BR-MA","São Bento","no",,,,"SNSB",,,"SNSB"
 37256,"BR-2844","heliport","Moinho II Heliport",-21.944721221924,-45.620277404785,2958,"SA","BR","BR-MG","São Gonçalo Do Sapucaí","no",,,,"SNSP",,,"SNSP"
 37258,"BR-2845","small_airport","Fazenda São Pedro Airport",-23.663821,-54.079044,1001,"SA","BR","BR-MS","Eldorado","no",,,,"MS0279",,,"SNSV, SSGS, BR-2845"
@@ -16111,6 +16111,11 @@
 598493,"BR-3262","heliport","José Antonio Andreetta Heliport",-28.303637,-52.324708,2313,"SA","BR","BR-RS","Passo Fundo","no",,,,,,,"SSYU"
 598500,"BR-3263","small_airport","Fazenda Angra dos Reis Airport",2.993511,-60.696901,276,"SA","BR","BR-RR","Boa Vista","no",,,"SSZA","RR0105",,,
 599183,"BR-3264","heliport","Val de Cães Naval Base Heliport",-1.393556,-48.491587,4,"SA","BR","BR-PA","Belém","no",,,,,,,
+599456,"BR-3265","small_airport","Fazenda Dona Ester Airport",-15.806594,-51.413653,1156,"SA","BR","BR-GO","Jussara","no",,,"SD01","GO0401",,,
+599457,"BR-3266","heliport","Lara Heliport",-28.651453,-49.343636,255,"SA","BR","BR-SC","Criciúma","no",,,"SD0A","SC0243",,,
+599458,"BR-3267","small_airport","São José dos Bandeirantes Airport",-13.708849,-50.80089,800,"SA","BR","BR-GO","Nova Crixás","no",,,"SD05","GO0227",,,
+599462,"BR-3268","small_airport","Agriter Agronegócios Airport",-13.0484,-57.791747,1502,"SA","BR","BR-MT",,"no",,,"SD13","MT1136",,,
+599463,"BR-3269","small_airport","Fazenda Próspera Airport",-11.222681,-56.353686,1407,"SA","BR","BR-MT","Tabaporã","no",,,"SD57","MT0541",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -37214,7 +37219,7 @@
 18746,"K3U8","small_airport","Big Sandy Airport",48.163204,-110.115709,2700,"NA","US","US-MT","Big Sandy","no",,,"K3U8","3U8",,"https://en.wikipedia.org/wiki/Big_Sandy_Airport",
 18747,"K3V0","small_airport","Custer State Park Airport",43.724998,-103.349998,3980,"NA","US","US-SD","Crazy Horse","no",,,"3V0","3V0",,,
 18750,"K3W7","small_airport","Grand Coulee Dam Airport",47.922000885,-119.083000183,1588,"NA","US","US-WA","Electric City","no",,"GCD","3W7","3W7","http://www.wsdot.wa.gov/aviation/AllStateAirports/ElectricCity_GrandCouleeDam.htm",,
-18751,"K3W8","small_airport","Eureka Municipal Airport",45.800523,-99.643968,1935,"NA","US","US-SD","Eureka","no",,,"3W8","3W8","https://dot.sd.gov/media/documents/Eureka_3W8.pdf","https://en.wikipedia.org/wiki/Eureka_Municipal_Airport_(South_Dakota)","SD16"
+18751,"K3W8","small_airport","Eureka Municipal Airport",45.800523,-99.643968,1935,"NA","US","US-SD","Eureka","no",,,"K3W8","3W8","https://dot.sd.gov/media/documents/Eureka_3W8.pdf","https://en.wikipedia.org/wiki/Eureka_Municipal_Airport_(South_Dakota)","SD16"
 18753,"K3Y2","small_airport","George L Scott Municipal Airport",42.98509979248047,-91.79060363769531,1232,"NA","US","US-IA","West Union","no",,,"K3Y2","3Y2",,,
 18754,"K3Y3","small_airport","Winterset Madison County Airport",41.362801,-94.021103,1110,"NA","US","US-IA","Winterset","no",,,"3Y3","3Y3",,"https://en.wikipedia.org/wiki/Winterset_Municipal_Airport",
 18755,"K40","seaplane_base","Anvik Seaplane Base",62.65620040893555,-160.2050018310547,52,"NA","US","US-AK","Anvik","no",,,"K40","K40",,,
@@ -37428,7 +37433,7 @@
 18980,"K6D6","small_airport","Greenville Municipal Airport",43.1423,-85.253799,855,"NA","US","US-MI","Greenville","no",,,"K6D6","6D6",,"https://en.wikipedia.org/wiki/Greenville_Municipal_Airport_(Michigan)",
 18981,"K6D8","small_airport","Barnes County Municipal Airport",46.94100189,-98.01760101,1402,"NA","US","US-ND","Valley City","no",,,"KBAC","BAC","http://www.barnescountyairport.com/",,"6D8"
 18982,"K6D9","small_airport","Iosco County Airport",44.312801,-83.422302,606,"NA","US","US-MI","East Tawas","no",,"ECA",,"6D9","http://www.us23heritageroute.org/location.asp?ait=av&aid=839","https://en.wikipedia.org/wiki/Iosco_County_Airport",
-18983,"K6E5","small_airport","Wilder Airport",44.433033,-97.558207,1729,"NA","US","US-SD","Desmet","no",,,"6E5","6E5",,,"SD12"
+18983,"K6E5","small_airport","Wilder Airport",44.433033,-97.558207,1729,"NA","US","US-SD","Desmet","no",,,"K6E5","6E5",,,"SD12"
 18986,"K6G1","small_airport","Titusville Airport",41.608799,-79.741302,1600,"NA","US","US-PA","Titusville","no",,,"K6G1","6G1",,"https://en.wikipedia.org/wiki/Titusville_Airport",
 18987,"K6G4","small_airport","Wynkoop Airport",40.3651008605957,-82.49569702148438,1041,"NA","US","US-OH","Mount Vernon","no",,,"K6G4","6G4",,,
 18988,"K6G5","small_airport","Barnesville Bradfield Airport",40.00239944458008,-81.19180297851562,1312,"NA","US","US-OH","Barnesville","no",,,"K6G5","6G5",,,
@@ -54176,6 +54181,31 @@
 599327,"RO-0137","small_airport","Timișești Airfield",47.221111,26.451111,938,"EU","RO","RO-NT","Timișești","no",,,,,"https://www.facebook.com/aerodromtimisesti",,
 599328,"RO-0138","small_airport","Aerodrom Baia Mare",47.659081,23.474513,,"EU","RO","RO-MM","Baia Mare","no","LRMM",,,,"https://aeroclubulromaniei.ro/page/aerodrom-baia-mare",,
 599330,"RO-0139","small_airport","Sarata Airfield",46.531054,26.892739,,"EU","RO","RO-BC",,"no",,,,,,,
+599422,"RO-0140","heliport","Phoenicia Luxury Hotel Helipad",44.279402,28.620624,,"EU","RO","RO-CT","Mamaia","no",,,,,,,
+599423,"RO-0141","heliport","Phoenicia Boutique Hotel Helipad",44.282187,28.620565,,"EU","RO","RO-CT","Mamaia","no",,,,,,,
+599424,"RO-0142","heliport","JTAir Heliport",44.280585,28.602755,,"EU","RO","RO-CT","Mamaia","no",,,,,,,
+599426,"RO-0143","heliport","IGJR Neptun Helipad",43.87652,28.601972,,"EU","RO","RO-CT","Neptun","no",,,,,,,
+599427,"RO-0144","heliport","Mangalia Municipal Hospital Helipad",43.819395,28.588336,,"EU","RO","RO-CT","Mangalia","no",,,,,,,
+599428,"RO-0145","heliport","IGPF Mangalia Port Helipad",43.805439,28.579865,,"EU","RO","RO-CT","Mangalia","no",,,,,,,
+599430,"RO-0146","heliport","Damen Shipyards Mangalia Emergency Helipad",43.796632,28.56676,,"EU","RO","RO-CT","Mangalia","no",,,,,,,
+599432,"RO-0147","heliport","Romanian Navy Mangalia Port Helipad",43.805947,28.56802,,"EU","RO","RO-CT",,"no",,,,,,,
+599433,"RO-0148","heliport","Civitas Tropaensium Museum Helipad",44.091939,27.941483,,"EU","RO","RO-CT","Adamclisi","no",,,,,,,
+599434,"RO-0149","heliport","Cernavodă City Hospital Helipad",44.342289,28.044432,,"EU","RO","RO-CT",,"no",,,,,,,
+599435,"RO-0150","heliport","CNE Helipad",44.319561,28.054581,,"EU","RO","RO-CT",,"no",,,,,,,
+599436,"RO-0151","closed","Călărași Utility Aviation Helipad",44.209623,27.336516,,"EU","RO","RO-CL",,"no",,,,,,,
+599438,"RO-0152","heliport","County Emergency Hospital Slobozia",44.567889,27.36056,,"EU","RO","RO-IL",,"no",,,,,,,
+599439,"RO-0153","heliport","Hârşova City Hospital",44.691634,27.952995,,"EU","RO","RO-IL",,"no",,,,,,,
+599440,"RO-0154","heliport","Mărașu Private Helipad",44.846848,27.999081,,"EU","RO","RO-BR",,"no",,,,,,,
+599441,"RO-0155","heliport","Delta Nature Resort Helipad",45.202278,28.627802,,"EU","RO","RO-TL",,"no",,,,,,,
+599442,"RO-0156","heliport","Transgaz Isaccea Helipad",45.260592,28.507027,,"EU","RO","RO-TL",,"no",,,,,,,
+599443,"RO-0157","closed","Liberty Steel Galați Helipad",45.438605,27.988315,,"EU","RO","RO-GL",,"no",,,,,,,
+599444,"RO-0158","heliport","Adjud Private Helipad",46.123641,27.153048,,"EU","RO","RO-VN",,"no",,,,,,,
+599445,"RO-0159","heliport","Industrial Zone Bacău Helipad",46.512733,26.94633,,"EU","RO","RO-BC",,"no",,,,,,,
+599446,"RO-0160","heliport","Emergency County Hospital Bacau",46.556444,26.910131,,"EU","RO","RO-BC",,"no",,,,,,,
+599447,"RO-0161","heliport","Municipal Emergency Hospital Moineşti Helipad",46.476786,26.487769,,"EU","RO","RO-BC",,"no",,,,,,,
+599448,"RO-0162","heliport","Pașcani Emergency Hospital Helipad",47.243202,26.724592,,"EU","RO","RO-IS",,"no",,,,,,,
+599449,"RO-0163","heliport","2nd Detachment of Firefighters Iaşi Helipad",47.142274,27.638056,,"EU","RO","RO-IS",,"no",,,,,,,
+599450,"RO-0164","heliport","National Centre Of Professional Firefighting and Rescue Training Iași Helipad",47.19035,27.573672,,"EU","RO","RO-IS",,"no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -56659,22 +56689,22 @@
 594843,"SD-0029","small_airport","Sennar Sugar Factory Airfield",13.76607,33.42155,1470,"AF","SD","SD-25","Barqu","no",,,,,,,
 594844,"SD-0030","heliport","Wad Madani Heliport",14.40665,33.53447,1322,"AF","SD","SD-07","Wad Madani","no",,,,,,,
 24498,"SD00","small_airport","MJ Aviation II Airport",42.679885,-96.699218,1115,"NA","US","US-SD","Elk Point","no",,,"SD00","SD00",,,
-24499,"SD01","small_airport","MJ Aviation I Airport",43.89971,-98.11102,1305,"NA","US","US-SD","Letcher","no",,,"SD01","SD01",,,
-337231,"SD02","heliport","Mogensmark Heliport",45.1843,-96.78121,1283,"NA","US","US-SD","Twin Brooks","no",,,"SD02","SD02",,,
-24500,"SD03","small_airport","Calico Field",44.050498962402344,-97.33509826660156,1750,"NA","US","US-SD","Winfred","no",,,"SD03","SD03",,,
+24499,"SD01","small_airport","MJ Aviation Airport I",43.89971,-98.11102,1305,"NA","US","US-SD","Letcher","no",,,,"SD01",,,
+337231,"SD02","closed","Mogensmark Heliport",45.1843,-96.78121,1283,"NA","US","US-SD","Twin Brooks","no",,,,,,,"SD02"
+24500,"SD03","small_airport","Calico Field",44.050249,-97.335665,1750,"NA","US","US-SD","Winfred","no",,,,"SD03",,,
 337245,"SD04","heliport","Keystone XL Opal Heliport",45.02,-102.658889,3001,"NA","US","US-SD","Opal","no",,,,"SD04",,,
-24501,"SD05","small_airport","Thorson Airfield",45.36853,-98.471888,1300,"NA","US","US-SD","Warner","no",,,"SD05","SD05",,,
-325034,"SD06","heliport","Faulkton Area Medical Center Heliport",45.030258,-99.133715,1600,"NA","US","US-SD","Faulkton","no",,,"SD06","SD06",,,
-337246,"SD07","heliport","Keystone XL Philip Heliport",44.056667,-101.674722,2338,"NA","US","US-SD","Philip","no",,,"SD07","SD07",,,
-24502,"SD09","heliport","Mid-Dakota Hospital Heliport",43.78689956665039,-99.32649993896484,1735,"NA","US","US-SD","Chamberlain","no",,,"SD09","SD09",,,
+24501,"SD05","small_airport","Thorson Airfield",45.36853,-98.471888,1300,"NA","US","US-SD","Warner","no",,,,"SD05",,,
+325034,"SD06","heliport","Faulkton Area Medical Center Heliport",45.030413,-99.134166,1600,"NA","US","US-SD","Faulkton","no",,,,"SD06",,,
+337246,"SD07","heliport","Keystone XL Philip Heliport",44.056081,-101.674607,2338,"NA","US","US-SD","Philip","no",,,,"SD07",,,
+24502,"SD09","heliport","Mid-Dakota Hospital Heliport",43.786534,-99.324675,1735,"NA","US","US-SD","Chamberlain","no",,,,"SD09",,,
 344016,"SD0E","small_airport","Fazenda Tangará Airport",-9.668485,-50.782555,689,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SD0E","PA0265",,,
 24503,"SD1","heliport","Soldotna Hospital H Heliport",60.492637,-151.078967,99,"NA","US","US-AK","Soldotna","no",,,,"SD1",,,
-24504,"SD13","small_airport","Hofer Private Airport",44.86712,-98.07396,1368,"NA","US","US-SD","Doland","no",,,"SD13","SD13",,,
-24505,"SD14","small_airport","Valburg Ranch Airport",43.733299255371094,-100.39800262451172,1688,"NA","US","US-SD","Draper","no",,,"SD14","SD14",,,
+24504,"SD13","small_airport","Hofer Private Airport",44.86712,-98.07396,1368,"NA","US","US-SD","Doland","no",,,,"SD13",,,"Richfield Township, Spink County"
+24505,"SD14","small_airport","Valburg Ranch Airport",43.73389,-100.392054,1688,"NA","US","US-SD","Draper","no",,,,"SD14",,,
 551359,"SD15","small_airport","Fleurish Farm Airport",42.758063,-96.669323,1133,"NA","US","US-SD","Elk Point","no",,,"SD15","SD15",,,
-24506,"SD17","heliport","CDP Hospital Heliport",45.658008,-97.050013,1250,"NA","US","US-SD","Sisseton","no",,,"SD17","SD17",,,
-327296,"SD18","heliport","Keystone Adventures Heliport",43.916111,-103.441943,4969,"NA","US","US-SD","Rapid City","no",,,"SD18","SD18",,,
-24507,"SD19","small_airport","Andersen Farms Airport",44.465301513671875,-97.22250366210938,1750,"NA","US","US-SD","Badger","no",,,"SD19","SD19",,,
+24506,"SD17","heliport","CDP Hospital Heliport",45.658008,-97.050013,1250,"NA","US","US-SD","Sisseton","no",,,,"SD17",,,
+327296,"SD18","heliport","Keystone Adventures Heliport",43.916269,-103.441726,4969,"NA","US","US-SD","Rapid City","no",,,"SD18","SD18",,,
+24507,"SD19","small_airport","Andersen Farms Airport",44.466191,-97.222844,1750,"NA","US","US-SD","Badger","no",,,,"SD19",,,"Moved marker to runway"
 337248,"SD20","heliport","Crooked Lake Lodge Heliport",45.032936,-96.883486,1882,"NA","US","US-SD","Strandburg","no",,,"SD20","SD20",,,
 24508,"SD21","small_airport","Hayes Emergency Airstrip",44.374891,-101.01425,1986,"NA","US","US-SD","Hayes","no",,,"SD21","SD21",,,"Sherer Spray Service"
 322342,"SD22","heliport","Avera Dells Area Hospital Heliport",43.828501,-96.717278,1570,"NA","US","US-SD","Dell Rapids","no",,,"SD22","SD22",,,
@@ -64021,6 +64051,7 @@
 598713,"TR-0304","closed","Yenisehir Airfield",40.243117,29.510874,,"AS","TR","TR-16",,"no",,,,,,,
 599026,"TR-0305","heliport","Newant Olympos Health Resort Helipad",36.369341,30.423544,,"AS","TR","TR-07","Kumluca","no",,,,,,,
 599135,"TR-0306","heliport","'Unknown' Heliport",40.054103,26.206824,24,"AS","TR","TR-17","Seddulbahir","no",,,,,,,"Sedd el Bahr"
+599454,"TR-0307","medium_airport","Saç Rehberi",0.000023,0.000006,6,"AS","TR","TR-34","İstanbul","no",,,,,"https://www.sacrehberi.com/",,
 43074,"TRPG","medium_airport","John A. Osborne Airport",16.791401,-62.193298,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
@@ -69960,7 +69991,7 @@
 337242,"US-1998","closed","Vernon Airstrip",40.10261,-112.42855,5507,"NA","US","US-UT","Vernon","no",,,,,,,
 337243,"US-1999","small_airport","Bonner Aerial Applicators Airport",30.47646,-87.69608,105,"NA","US","US-AL","Summerdale","no",,,,,,,"Summerdale"
 337244,"US-2000","small_airport","Marlow Landing Strip",30.46185,-87.79622,62,"NA","US","US-AL","Summerdale","no",,,,,,,
-337247,"US-2001","heliport","Keystone XL Colome Heliport",43.265,-99.710278,,"NA","US","US-SD","Colome","no",,,"SD08","SD08",,,
+337247,"US-2001","heliport","Keystone XL Colome Heliport",43.265,-99.710278,2295,"NA","US","US-SD","Colome","no",,,,"SD08",,,
 337249,"US-2002","heliport","Divine Savior Healthcare Inc Heliport",43.567352,-89.4655,815,"NA","US","US-WI","Portage","no",,,"WI02","WI02",,,
 337250,"US-2003","heliport","Medical City Alliance Heliport",32.900331,-97.312834,700,"NA","US","US-TX","Fort Worth","no",,,"XA65","XA65",,,
 337252,"US-2004","seaplane_base","Kenney Reservoir Seaplane Base",40.115319,-108.708119,5329,"NA","US","US-CO","Rangley","no",,,,"13R",,,
