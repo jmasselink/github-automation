@@ -15588,11 +15588,11 @@
 36962,"BR-2738","small_airport","Aeromis Airport",-31.29268,-54.156822,886,"SA","BR","BR-RS","Bagé","no",,,,,,,"SJXA"
 36965,"BR-2739","heliport","Sinal Construtora Heliport",-22.683785,-42.369787,68,"SA","BR","BR-RJ","Silva Jardim","no",,,,"SJXE",,,"SJXE"
 36968,"BR-2740","small_airport","Águas Frias Airport",-27.217627,-53.27253,1135,"SA","BR","BR-RS","Iraí","no",,,,"SJXH",,,"SJXH"
-36970,"BR-2741","small_airport","Parque Fazenda Bom Futuro Airport",-17.191389083862,-57.033889770508,361,"SA","BR","BR-MT","Poconé","no",,,,"SJXN",,,"SJXN"
-36971,"BR-2742","heliport","HP Padilha Heliport",-23.038610458374,-44.153331756592,16,"SA","BR","BR-RJ","Mangaratiba","no",,,,"SJXO",,,"SJXO"
-36978,"BR-2743","small_airport","Fazenda 3M Airport",-21.673610687256,-54.035831451416,1155,"SA","BR","BR-MS","Nova Alvorada Do Sul","no",,,,"SJXW",,,"SJXW"
-36981,"BR-2744","heliport","Namour Heliport",-23.572779,-46.641109,2900,"SA","BR","BR-SP","São Paulo","no",,,,"SJXZ",,,"SJXZ"
-36982,"BR-2745","heliport","Caraguatá Heliport",-22.920833587646,-42.477500915527,162,"SA","BR","BR-RJ","Saquarema","no",,,,"SJYA",,,"SJYA"
+36970,"BR-2741","small_airport","Parque Fazenda Bom Futuro Airport",-17.191785,-57.03402,361,"SA","BR","BR-MT","Poconé","no",,,,,,,"SJXN"
+36971,"BR-2742","heliport","HP Padilha Heliport",-23.038612,-44.15328,17,"SA","BR","BR-RJ","Mangaratiba","no",,,,,,,"SJXO"
+36978,"BR-2743","small_airport","Fazenda 3M Airport",-21.674202,-54.03658,1155,"SA","BR","BR-MS","Nova Alvorada do Sul","no",,,,,,,"SJXW"
+36981,"BR-2744","heliport","Namour Heliport",-23.572779,-46.641109,2900,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SJXZ"
+36982,"BR-2745","heliport","Caraguatá Heliport",-22.920834,-42.477501,162,"SA","BR","BR-RJ","Saquarema","no",,,,,,,"SJYA"
 36983,"BR-2746","heliport","Edifício Plaza I Heliport",-23.61084,-46.695912,2648,"SA","BR","BR-SP","São Paulo","no",,,,,"https://spcorporate.com.br/imoveis/plaza-i",,"SJYB"
 37002,"BR-2747","small_airport","Rio do Sangue Airport",-11.522222,-58.172978,935,"SA","BR","BR-MT","Brasnorte","no",,,,,,,"SJYY"
 37003,"BR-2748","small_airport","Fazenda Lagoa Encantada Airport",-15.273504,-54.262292,1968,"SA","BR","BR-MT","Primavera do Leste","no",,,,"SJYZ",,,"SJYZ"
@@ -59690,7 +59690,7 @@
 36975,"SJXT","heliport","Iguassú Heliport",-23.121110916099997,-44.192779541,16,"SA","BR","BR-RJ","Angra Dos Reis","no",,,"SJXT",,,,
 36977,"SJXV","small_airport","Fazenda Bela Vista Airport",-22.931110382080078,-55.054443359375,1256,"SA","BR","BR-MS","Amambaí","no",,,"SJXV",,,,
 36979,"SJXX","small_airport","Recreio Airport",-22.679443359375,-55.540557861328125,1968,"SA","BR","BR-MS","Ponta Porã","no",,,"SJXX",,,,
-36980,"SJXY","heliport","Piratas Mall Heliport",-23.003610610961914,-44.29916763305664,6,"SA","BR","BR-RJ","Angra Dos Reis","no",,,"SJXY",,,,
+36980,"SJXY","heliport","Piratas Mall Helistop",-23.003974,-44.301862,7,"SA","BR","BR-RJ","Angra dos Reis","no",,,"SJXY","RJ0122",,,
 527137,"SJY2","small_airport","Fazenda Aguão Airport",-11.503738,-54.202544,1220,"SA","BR","BR-MT","União do Sul","no",,,"SJY2","MT0945",,,
 527138,"SJY3","small_airport","Fazenda Vaca Preta Airport",-13.427778,-46.580278,1627,"SA","BR","BR-GO","São Domingos","no",,,"SJY3","GO0356",,,
 527141,"SJY4","small_airport","Fazenda Vereda Grande Airport",-18.220741,-46.497605,3310,"SA","BR","BR-MG","Presidente Olegário","no",,,"SJY4","MG0592",,,
