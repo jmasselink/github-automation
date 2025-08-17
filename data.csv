@@ -14518,7 +14518,7 @@
 348601,"BR-1652","small_airport","Rancho do Povo Airport",-4.72725,-37.83157,125,"SA","BR","BR-CE","Itaiçaba","no",,,,,,,
 348602,"BR-1653","small_airport","Outeiro Airport",-4.64604,-37.79253,69,"SA","BR","BR-CE","Aracati","no",,,,,,,
 348603,"BR-1654","small_airport","Cajucoco Airport",-2.91477,-39.95545,72,"SA","BR","BR-CE","Itarema","no",,,,,,,
-348604,"BR-1655","small_airport","Primeira Cruz Airport",-2.50234,-43.43046,23,"SA","BR","BR-MA","Primeira Cruz","no",,,,,,,
+348604,"BR-1655","small_airport","Primeira Cruz Airport",-2.504096,-43.437477,23,"SA","BR","BR-MA","Primeira Cruz","no",,,,,,,
 348605,"BR-1656","small_airport","Cândido Mendes Airport",-1.44832,-45.72671,30,"SA","BR","BR-MA","Cândido Mendes","no",,,,,,,
 348606,"BR-1657","closed","Godofredo Viana Airport",-1.42228,-45.76775,66,"SA","BR","BR-MA","Godofredo Viana","no",,,,,,,
 348607,"BR-1658","small_airport","Bragança - Juscelino Kubitschek Regional Airport",-1.04644,-46.78199,137,"SA","BR","BR-PA","Bragança","no",,,,,,,
@@ -15017,7 +15017,7 @@
 180,"BR-2156","small_airport","Igarapé Bahia Airport",-6.04778,-50.580147,2257,"SA","BR","BR-PA","Parauapebas","no",,,,,,,"SDLJ"
 196,"BR-2157","small_airport","Fazenda Fortaleza Airport",-23.293101,-48.815346,1952,"SA","BR","BR-SP","Paranapanema","no",,,,"SP0134",,,"SDPP"
 209,"BR-2158","small_airport","Alagoinhas Airport",-12.175078,-38.380055,568,"SA","BR","BR-BA","Alagoinhas","no",,,,"BA0086",,,"QGS, SDUO, SIGL, BR-2158"
-213,"BR-2159","small_airport","Cristalina Airport",-16.791,-47.645199,3937,"SA","BR","BR-GO","Cristalina","no",,,,"GO0027",,,"SDXB, BR-2159"
+213,"BR-2159","small_airport","Cristalina Airport",-16.791,-47.645199,3937,"SA","BR","BR-GO","Cristalina","no",,,"SW1P","GO0027",,,"SDXB"
 220,"BR-2160","small_airport","Fazenda Bananeira Airport",-20.57995,-49.074778,1673,"SA","BR","BR-SP","Altair","no",,,,,,,"SDZS"
 222,"BR-2161","small_airport","Benedito Mutran Airport",-5.758452,-49.176216,551,"SA","BR","BR-PA","Marabá","no",,,,"SIBD",,,"SIBD, Fazenda Cedro"
 227,"BR-2162","small_airport","Fazenda Romaria Airport",-18.872575,-47.558148,3297,"SA","BR","BR-MG","Romaria","no",,,,,,,"SIFR"
@@ -59344,7 +59344,7 @@
 36577,"SJHI","heliport","Flow Water Heliport",-22.750265,-45.532672,6063,"SA","BR","BR-SP","Campos do Jordão","no",,,"SJHI","SP0622",,,
 36578,"SJHJ","small_airport","Fazenda Remanso Airport",-11.18294,-61.088936,745,"SA","BR","BR-RO","Cacoal","no",,,"SWRM","RO0036",,,"SJHJ"
 36581,"SJHM","small_airport","Fazenda Globo Airport",-12.949012,-58.587798,1588,"SA","BR","BR-MT","Sapezal","no",,,"SNSU","MT0615",,,"SJHM"
-36583,"SJHO","small_airport","Fazenda Colorado Airport",-13.943925,-57.103924,1699,"SA","BR","BR-MT","Diamantino","no",,,"SJHO","MT0178",,,
+36583,"SJHO","small_airport","Fazenda Colorado Airport",-13.944093,-57.103978,1804,"SA","BR","BR-MT","Diamantino","no",,,"SW1X","MT1137",,,"SJHO, MT0178"
 36585,"SJHQ","small_airport","Fazenda São José da Reunidas Airport",-11.016676,-52.368194,1155,"SA","BR","BR-MT","São José Do Xingu","no",,,"SJHQ","MT0179",,,
 336664,"SJHR","heliport","Flamboyant Heliport",-2.520691,-44.137063,125,"SA","BR","BR-MA","Paço do Lumiar","no",,,"SJHR","MA0061",,,
 36586,"SJHS","small_airport","Fazenda São Vicente Airport",-19.310409,-48.343315,2477,"SA","BR","BR-MG","Uberlândia","no",,,"SJHS","MG0122",,,
@@ -61884,6 +61884,8 @@
 599344,"SS4Y","heliport","Fazenda São João Helipad",-24.820753,-50.126991,3855,"SA","BR","BR-PR","Carambe","no",,,"SS4Y","PR0251",,,
 599345,"SS4Z","small_airport","Fazenda Capão Redondo Airstrip",-13.311463,-45.829628,2727,"SA","BR","BR-BA","Correntina","no",,,"SS4Z","BA0483",,,
 599346,"SS62","small_airport","Angelina Airstrip",-9.360494,-45.334419,2001,"SA","BR","BR-PI","Gilbués","no",,,"SS62","PI0117",,,
+599830,"SS63","small_airport","Fazenda Amizade Airport",-13.413326,-46.062485,2977,"SA","BR","BR-BA","Correntina","no",,,"SS63","BA0484",,,
+599832,"SS64","heliport","Nampur Trancoso Heliport",-16.576689,-39.091111,62,"SA","BR","BR-BA","Porto Seguro","no",,,"SS64","BA0486",,,
 598990,"SS68","small_airport","Fazenda União Airport",-11.630948,-52.021672,1142,"SA","BR","BR-MT","São Félix do Araguaia","no",,,"SS68","MT1108",,,
 598989,"SS69","small_airport","Eldorado dos Gerais Airport",-11.031722,-46.357139,2707,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SS69","BA0491",,,
 598987,"SS6A","small_airport","Fazenda Novale Airport",-11.380416,-44.81754,1595,"SA","BR","BR-BA","Santa Rita de Cássia","no",,,"SS6A","BA0490",,,
@@ -62817,6 +62819,10 @@
 40347,"SVYI","small_airport","El Yavi Airport",5.4583330154418945,-65.89833068847656,557,"SA","VE","VE-Z",,"no",,,"SVYI",,,,
 40348,"SVYP","small_airport","Yopita Airport",7.199999809265137,-69.31666564941406,360,"SA","VE","VE-C",,"no",,,"SVYP",,,,
 40349,"SVYT","small_airport","Yutaje Airport",5.60978,-66.110397,722,"SA","VE","VE-Z",,"no",,,"SVYU",,,,
+599808,"SW1M","heliport","Agripark Heliport",-16.518383,-43.964106,2848,"SA","BR","BR-MG","Montes Claros","no",,,"SW1M","MG0652",,,
+599811,"SW1N","heliport","Novo Horizonte Heliport",-23.006789,-46.412147,2897,"SA","BR","BR-SP","Piracaia","no",,,"SW1N","SP1488",,,
+599813,"SW1O","heliport","Juarez Filho Heliport",-27.673283,-48.672716,16,"SA","BR","BR-SC","Palhoça","no",,,"SW1O","SC0257",,,
+599824,"SW1Q","small_airport","Rebouças Airport",0.285045,-60.514423,217,"SA","BR","BR-RR","Rorainópolis","no",,,"SW1Q","RR0165",,,
 599610,"SW1S","small_airport","Fazenda Aldeia Velha Airport",-12.091782,-50.812392,670,"SA","BR","BR-MT","Novo Santo Antônio","no",,,"SW1S","MT1143",,,
 599611,"SW1T","heliport","Madero Industria Heliport",-25.184028,-50.094812,2740,"SA","BR","BR-PR","Ponta Grossa","no",,,"SW1T","PR0253",,,
 599612,"SW1U","heliport","JMX Heliport",-22.937336,-42.895333,17,"SA","BR","BR-RJ","Maricá","no",,,"SW1U","RJ0394",,,
@@ -62879,7 +62885,7 @@
 334037,"SWCI","small_airport","Agropecuária Rio Da Prata Airport",-14.223138,-46.550021,1752,"SA","BR","BR-GO","Posse","no",,,"SWCI","GO0203",,,
 37813,"SWCJ","small_airport","Coperjava Airport",-11.835873,-49.712237,630,"SA","BR","BR-TO","Formoso Do Araguaia","no",,,"SJLZ","TO0031",,,"SWCJ"
 37816,"SWCM","small_airport","Fazenda Couto Magalhães Airport",-13.994372,-52.933202,1378,"SA","BR","BR-MT","Água Boa","no",,,"SIRM","MT0123",,,"SWCM"
-37818,"SWCO","small_airport","Fazenda Continental Airport",-14.715556144714355,-51.209720611572266,919,"SA","BR","BR-MT","Cocalinho","no",,,"SWCO",,,,
+37818,"SWCO","small_airport","Fazenda Continental Airport",-14.706057,-51.213759,896,"SA","BR","BR-MT","Cocalinho","no",,,"SWCO","MT0331",,,
 527,"SWCQ","small_airport","Costa Marques Airport",-12.4211,-64.251602,623,"SA","BR","BR-RO","Costa Marques","no","SWCQ","CQS","SWCQ","RO0007",,,
 337274,"SWCS","small_airport","Corticeiras Airport",-30.978246,-51.936816,79,"SA","BR","BR-RS","Cristal","no",,,"SWCS","RS0171",,,
 37821,"SWCT","small_airport","Santa Rosa Pantanal Hotel Airport",-17.366367,-56.791377,364,"SA","BR","BR-MT","Poconé","no",,,"SWJS","MT0686",,,"SWCT, Complexo Turístico S. R. Pantanal Hotéis LTDA"
