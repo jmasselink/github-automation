@@ -11749,6 +11749,8 @@
 597087,"AU-0779","small_airport","Walcha Farm Airstrip",-31.002219,151.678906,3432,"OC","AU","AU-NSW","Walcha","no",,,,,,,
 599311,"AU-0780","small_airport","Wilson's Creek Farm Airstrip",-30.661522,151.42745,3425,"OC","AU","AU-NSW","Uralla","no",,,,,,,
 599573,"AU-0781","small_airport","Karalundi Airport",-26.128817,118.676205,,"OC","AU","AU-WA",,"no",,,,"Y0C6",,,
+599999,"AU-0782","small_airport","Stratford",-37.953674,147.092582,180,"OC","AU","AU-VIC","Stratford","no",,,,,,,"Private"
+600001,"AU-0783","small_airport","JDandBoo",-37.85774,146.91748,380,"OC","AU","AU-VIC","Boisdale","no","YJBO",,,,,,"Private, PPR"
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -13016,7 +13018,7 @@
 322476,"BR-0132","small_airport","Tunui Airport",1.387973,-68.158747,340,"SA","BR","BR-AM","Tunui","no",,,,,,,
 322527,"BR-0133","small_airport","Itaberaí Go Airport",-16.023533,-49.76983,,"SA","BR","BR-GO","Itaberaí","no",,,,,,,
 322528,"BR-0134","small_airport","Sanclerlândia Airport",-16.208928,-50.336632,,"SA","BR","BR-GO","Sanclerlândia","no",,,,,,,
-322529,"BR-0135","small_airport","Goiás Airport",-15.920225,-50.193045,,"SA","BR","BR-GO","Goiás","no",,,,,,,
+322529,"BR-0135","small_airport","Cidade de Goiás Airport",-15.920225,-50.193045,1683,"SA","BR","BR-GO","Goiás","no",,,"SD09","GO0402",,,
 322530,"BR-0136","small_airport","Itapuranga Airport",-15.545172,-49.944283,,"SA","BR","BR-GO","Itapuranga","no",,,,,,,
 322531,"BR-0137","small_airport","Uruana Airport",-15.520599,-49.690334,,"SA","BR","BR-GO","Uruana","no",,,,,,,
 322532,"BR-0138","small_airport","Morro Agudo de Goiás Airport",-15.332789,-50.046968,,"SA","BR","BR-GO","Morro Agudo de Goiás","no",,,,,,,
@@ -49806,7 +49808,7 @@
 332211,"NO-0079","small_airport","Veslemoen Airstrip",70.290018,24.110275,734,"EU","NO","NO-56","Hammerfest","no",,,,,,,
 332212,"NO-0080","small_airport","Ravnastua Airstrip",69.527306,24.95613,1091,"EU","NO","NO-56","Karasjok","no",,,,,,,"Gárdin"
 332374,"NO-0081","heliport","Tana Bru Heliport",70.200968,28.192003,,"EU","NO","NO-56",,"no",,,,,,,
-332946,"NO-0082","small_airport","Skogn Flyplass",63.695658,11.226687,,"EU","NO","NO-50",,"no",,,,,,,
+332946,"NO-0082","small_airport","Skogn Airstrip",63.695596,11.226196,226,"EU","NO","NO-50","Skogn","no",,,,,,,
 332947,"NO-0083","small_airport","Skarva Airfield",63.845275,11.344714,,"EU","NO","NO-50",,"no",,,,,,,
 333671,"NO-0084","small_airport","Åsegardmoen Airfield",68.790262,16.447434,325,"EU","NO","NO-55","Harstad","no",,,,,,,
 334040,"NO-0085","small_airport","Lier Airfield",59.884192,10.280081,397,"EU","NO","NO-33","Sylling","no",,,,,,,
@@ -54307,7 +54309,7 @@
 5685,"RPLA","small_airport","Pinamalayan Airport",12.9858,121.426003,92,"AS","PH","PH-MDR","Pinamalayan","no",,,"RPLA","RP11",,,
 5686,"RPLB","medium_airport","Subic Bay International Airport / Naval Air Station Cubi Point",14.7944,120.271004,64,"AS","PH","PH-ZMB","Olongapo","yes","RPLB","SFS","RPLB",,,"https://en.wikipedia.org/wiki/Subic_Bay_International_Airport","Paliparang Pandaigdig ng Look ng Subic, Naval Air Station Cubi Point"
 5687,"RPLC","medium_airport","Clark International Airport / Clark Air Base",15.186,120.559998,484,"AS","PH","PH-PAM","Mabalacat","yes","RPLC","CRK","RPLC",,"http://www.clarkairport.com/","https://en.wikipedia.org/wiki/Clark_International_Airport","Diosdado Macapagal International Airport, Paliparang Pandaigdig ng Diosdado Macapagal, Pangyatung Sulapawan ning Clark, Paliparang Pandaigdig ng Clark"
-324042,"RPLE","small_airport","Balesin Island Airport",14.419365,122.039402,25,"AS","PH","PH-BAS","Balesin","no","RPLE","BSI","RPLE",,,"https://en.wikipedia.org/wiki/Balesin_Island_Airport","RPBL"
+324042,"RPLE","small_airport","Balesin Island Airport",14.418624,122.03923,25,"AS","PH","PH-BAS","Balesin","no","RPLE","BSI","RPLE",,,"https://en.wikipedia.org/wiki/Balesin_Island_Airport","RPBL, Polilio, E. L. Tordesillas"
 325947,"RPLH","medium_airport","Cagayan North International Airport",18.182388,121.745853,148,"AS","PH","PH-CAG","Lal-lo","no","RPLH","LLC","RPLH",,,"https://en.wikipedia.org/wiki/Cagayan_North_International_Airport","Northern Cagayan, Lal-lo"
 5688,"RPLI","medium_airport","Laoag International Airport",18.176121,120.531034,25,"AS","PH","PH-ILN","Laoag City","yes","RPLI","LAO","RPLI",,,"https://en.wikipedia.org/wiki/Laoag_International_Airport","Gabu Airfield, Laoag Airfield"
 32220,"RPLJ","small_airport","Jomalig Island Airport",14.704161,122.331133,36,"AS","PH","PH-QUE","Jomalig","no","RPLJ",,"RPLJ",,,"https://en.wikipedia.org/wiki/Jomalig_Airport","Jomalig"
