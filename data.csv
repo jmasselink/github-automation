@@ -45756,6 +45756,7 @@
 517152,"MU-0003","heliport","Sir Seewoosagur Ramgoolam National Hospital Helipad",-20.097715,57.558786,183,"AF","MU","MU-PA","Port Louis","no",,,,,,,
 557052,"MU-0004","medium_airport","IAF Agalega",-10.372483,56.603537,,"AF","MU","MU-AG","Vingt Cinq","no",,,,,,,"Military, India, Agaléga"
 564465,"MU-0005","seaplane_base","LUX Grand Gaube seaplane base",-20.003047,57.661781,,"AF","MU","MU-RP","Grand Gaube","no",,,,,"https://islandwingsmauritius.com/",,
+600095,"MU-0006","heliport","Shanti Meurice Helipad",-20.514927,57.471637,,"AF","MU","MU-SA","Riambel","no",,,,,,,
 22497,"MU00","small_airport","Samuel L. Clemens Memorial Airport",39.44449996948242,-91.95179748535156,730,"NA","US","US-MO","Paris","no",,,"MU00","MU00",,,
 22498,"MU01","heliport","Dogwood Canyon Heliport",36.49919891357422,-93.45850372314453,1240,"NA","US","US-MO","Blue Eye","no",,,"MU01","MU01",,,
 22499,"MU02","small_airport","C.E.F. Airport",38.80979919433594,-91.10350036621094,638,"NA","US","US-MO","Warrenton","no",,,"MU02","MU02",,,
@@ -54288,6 +54289,12 @@
 599449,"RO-0163","heliport","2nd Detachment of Firefighters Iaşi Helipad",47.142274,27.638056,,"EU","RO","RO-IS",,"no",,,,,,,
 599450,"RO-0164","heliport","National Centre Of Professional Firefighting and Rescue Training Iași Helipad",47.19035,27.573672,,"EU","RO","RO-IS",,"no",,,,,,,
 599720,"RO-0165","heliport","Jibou Ambulance Heliport",47.271021,23.257294,,"EU","RO","RO-SJ","Jibou","no",,,,,,,
+600105,"RO-0166","closed","Bucureşti Utility Aviation",44.502895,26.084842,291,"EU","RO","RO-U-A","Sector 1","no",,,,,"https://www.aviatia-utilitara.ro/",,"LRAU"
+600106,"RO-0167","heliport","Dacia Group Mioveni Helipad",44.949127,24.922121,,"EU","RO","RO-AG","Mioveni","no",,,,,,,
+600107,"RO-0168","heliport","Nidec Motor Corporation RO Helipad",44.868074,24.897112,,"EU","RO","RO-AG","Zăvoi","no",,,,,,,
+600108,"RO-0169","heliport","SIIFT MH Helipad",44.850933,24.8608,,"EU","RO","RO-AG","Pitești","no",,,,,,,
+600110,"RO-0170","heliport","Customs Office Alexandria Helipad",43.980981,25.313498,,"EU","RO","RO-TR","Alexandria","no",,,,,,,
+600111,"RO-0171","heliport","Emergency County Hospital Craiova Helipad",44.304848,23.793694,,"EU","RO","RO-DJ","Craiova","no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha Airport / JASDF Naha Air Base",26.195801,127.646004,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -54750,7 +54757,7 @@
 46079,"RU-0296","heliport","Rechnoy Yacht-club Helipad",59.963791847799996,30.239106416699997,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,,,"Central Yacht-club Helipad, Вертолётная площадка Речной Яхт-клуб, Вертолётная площадка Центральный Яхт-клуб"
 46087,"RU-0297","small_airport","Pereyaslavka-2 Air Base",47.996987,135.088182,269,"AS","RU","RU-KHA","Pereyaslavka","no",,,"XHHP",,,,"Аэродром Переяславка"
 46089,"RU-0298","small_airport","Marinovka Air Base",48.637,43.789,240,"EU","RU","RU-VGG","Volgograd","no",,,,"XRWM",,,"Аэродром Мариновка, ЬРВМ"
-46090,"RU-0299","small_airport","Varfolomeyevka Air Base",44.261,133.413,485,"AS","RU","RU-PRI","Varfolomeyevka","no",,,"XHIF",,,,"Varfolomeevka Air Base, Аэродром Варфоломеевка"
+46090,"RU-0299","small_airport","Varfolomeyevka Air Base",44.261794,133.411701,485,"AS","RU","RU-PRI","Varfolomeyevka","no",,,,"XHIF",,,"Varfolomeevka Air Base, Аэродром Варфоломеевка"
 46125,"RU-0300","heliport","Lensovetovskiy Heliport",59.765504738400004,30.4800224304,,"EU","RU","RU-SPE","Saint Petersburg","no",,,,,"http://aerosouz-piter.ru/",,"Lensovetovsky Heliport, Вертодром Ленсоветовский"
 46126,"RU-0301","heliport","Volen Heliport",56.2788410955,37.476253509500005,,"EU","RU","RU-MOS","Yakhroma","no",,,"UUEJ",,"http://www.aerosouz.ru/home/moscow/",,"Вертодром Волен, УУЕЙ"
 46127,"RU-0302","heliport","Pridachinskaya Damba Heliport",51.67409209,39.238754510899994,,"EU","RU","RU-VOR","Voronezh","no",,,,,"http://aerosouz-vrn.ru/",,"Pridachenskaya Damba Heliport, Вертодром Придачинская Дамба, Вертодром Придаченская Дамба"
