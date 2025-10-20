@@ -14285,7 +14285,7 @@
 340982,"BR-1390","small_airport","Rancho Bela Vista Airport",-13.509056,-56.63685,1037,"SA","BR","BR-MT","São José do Rio Claro","no",,,,"MT0270",,,
 340983,"BR-1391","small_airport","Fazenda Morada Bela Airport",-18.42718,-45.364218,2070,"SA","BR","BR-MG","Morada Nova de Minas","no",,,"SNUW","MG0165",,,
 341110,"BR-1392","small_airport","Fazenda Senhora Aparecida Airstrip",-14.703746,-58.543031,1841,"SA","BR","BR-MT","Tangará da Serra","no",,,"SNVJ","MT0272",,,
-341114,"BR-1393","small_airport","Fazenda Ventura III Airstrip",-13.166088,-46.194853,3297,"SA","BR","BR-BA","São Desidério","no",,,"SNVM","BA0146",,,
+341114,"BR-1393","closed","Fazenda Ventura III Airstrip",-13.164658,-46.195231,3297,"SA","BR","BR-BA","São Desidério","no",,,,,,,"SNVM, BA0146"
 341117,"BR-1394","small_airport","Ventura I Airstrip",-13.179712,-46.238848,3215,"SA","BR","BR-BA","São Desidério","no",,,"SWPT","BA0112",,,"SNVK, BA0145"
 341118,"BR-1395","small_airport","Fazenda Vitória Santa Airport",-18.93304,-50.373019,1483,"SA","BR","BR-MG","Santa Vitória","no",,,"SNVN","MG0166",,,
 341128,"BR-1396","small_airport","Fazenda Paraíso Airstrip",-17.580049,-44.96227,1781,"SA","BR","BR-MG","Várzea da Palma","no",,,"SNVP","MG0319",,,
@@ -15746,32 +15746,32 @@
 37288,"BR-2863","closed","Buritis Airport",-15.649312,-46.443297,1870,"SA","BR","BR-MG","Buritis","no",,,,,,,"SNUY, MG0077"
 37294,"BR-2864","small_airport","Fazenda Salto Grande Airport",-15.258869,-58.792709,1444,"SA","BR","BR-MT","Jauru","no",,,,,,,"SNVJ"
 37295,"BR-2865","small_airport","Fazenda Santa Terezinha Airport",-20.499284,-52.369067,1214,"SA","BR","BR-MS","Três Lagoas","no",,,,,,,"SNVK"
-37296,"BR-2866","small_airport","Virgem da Lapa Airport",-16.773889541626,-42.387500762939,2477,"SA","BR","BR-MG","Virgem Da Lapa","no",,,,"SNVL",,,"SNVL"
-37297,"BR-2867","small_airport","Fazenda Guaivira Airport",-20.664443969727,-52.767223358154,1112,"SA","BR","BR-MS","Brasilândia","no",,,,"SNVM",,,"SNVM"
-37300,"BR-2868","small_airport","Fazenda Araçatuba Airport",-6.9769439697266,-49.199443817139,541,"SA","BR","BR-TO","Santa Fé","no",,,,"SNVP",,,"SNVP"
-37301,"BR-2869","small_airport","Fazenda Santa Mônica Airport",-6.5230560302734,-48.26583480835,600,"SA","BR","BR-TO","Piraquê","no",,,,"SNVQ",,,"SNVQ"
-37308,"BR-2870","small_airport","Várzea da Palma Airport",-17.645000457764,-44.710556030273,1719,"SA","BR","BR-MG","Várzea Da Palma","no",,,,"SNVZ",,,"SNVZ"
+37296,"BR-2866","small_airport","Virgem da Lapa Airport",-16.773969,-42.386425,2477,"SA","BR","BR-MG","Virgem da Lapa","no",,,,,,,"SNVL"
+37297,"BR-2867","small_airport","Fazenda Guaivira Airport",-20.663527,-52.768053,1112,"SA","BR","BR-MS","Brasilândia","no",,,,,,,"SNVM"
+37300,"BR-2868","small_airport","Fazenda Araçatuba Airport",-6.976671,-49.199481,541,"SA","BR","BR-TO","Santa Fé","no",,,,,,,"SNVP"
+37301,"BR-2869","small_airport","Fazenda Santa Mônica Airport",-6.516367,-48.267096,600,"SA","BR","BR-TO","Piraquê","no",,,,,,,"SNVQ"
+37308,"BR-2870","small_airport","Várzea da Palma Airport",-17.651265,-44.705923,1719,"SA","BR","BR-MG","Várzea da Palma","no",,,,,,,"SNVZ"
 37309,"BR-2871","small_airport","Guaxuma Airport",-9.980556,-36.23111,322,"SA","BR","BR-AL","Coruripe","no",,,,,,,"SNWA"
 37312,"BR-2872","small_airport","Fazenda Baia da Bugra Airport",-20.279923,-57.234868,507,"SA","BR","BR-MS","Corumbá","no",,,,,,,"SNWE"
 37323,"BR-2873","small_airport","Laginha Airport",-9.313889,-36.056389,262,"SA","BR","BR-AL","União dos Palmares","no",,,,,,,"SNWP"
 37324,"BR-2874","heliport","Kioma Heliport",-3.875833,-38.431389,33,"SA","BR","BR-CE","Eusébio","no",,,,,,,"SNWT"
-37329,"BR-2875","small_airport","Uruba Airport",-9.484056,-35.956048,302,"SA","BR","BR-AL","Atalaia","no",,,,"SNWZ",,,"SNWZ"
-37331,"BR-2876","small_airport","Fazenda Beradão Airport",-6.2727780342102,-55.785831451416,764,"SA","BR","BR-PA","Itaituba","no",,,,"SNXD",,,"SNXD"
-37333,"BR-2877","small_airport","Estância Turística de Pereira Barreto Airport",-20.6247215271,-51.084999084473,1289,"SA","BR","BR-SP","Pereira Barreto","no",,,,"SNXI",,,"SNXI"
-37337,"BR-2878","small_airport","Fazenda Itumbiara Airport",-6.4202780723572,-53.611389160156,886,"SA","BR","BR-PA","Altamira","no",,,,"SNXM",,,"SNXM"
-37338,"BR-2879","small_airport","Heringer Airport",-7.3752779960632,-45.989723205566,1021,"SA","BR","BR-MA","Balsas","no",,,,"SNXN",,,"SNXN"
-37339,"BR-2880","small_airport","Fazenda Bom Sucesso Airport",-7.8936109542847,-56.387500762939,600,"SA","BR","BR-PA","Novo Progresso","no",,,,"SNXO",,,"SNXO"
-37340,"BR-2881","heliport","Residência Papaiz Heliport",-23.590336,-46.704533,2615,"SA","BR","BR-SP","São Paulo","no",,,,"SNXP",,,"SNXP"
-37342,"BR-2882","heliport","Meridional Heliport",-20.332221984863,-40.37833404541,144,"SA","BR","BR-ES","Cariacica","no",,,,"SNXU",,,"SNXU"
-37344,"BR-2883","small_airport","Chaves Airport",-0.1661,-49.9794,20,"SA","BR","BR-PA","Chaves","no",,,,"PA0023",,,"SNXW, BR-2883"
-37347,"BR-2884","small_airport","Rosa Branca Airport",-7.0091671943665,-56.904445648193,552,"SA","BR","BR-PA","Itaituba","no",,,,"SNYC",,,"SNYC"
-37348,"BR-2885","small_airport","Pilão Arcado Airport",-10.066944122314,-42.45055770874,1312,"SA","BR","BR-BA","Pilão Arcado","no",,,,"SNYD",,,"SNYD"
-37355,"BR-2886","small_airport","Fazenda São João Airport",-18.425829,-46.051215,3300,"SA","BR","BR-MG","Varjão De Minas","no",,,,"SNYL",,,"SNYL"
-37356,"BR-2887","small_airport","Fazenda Flexas Airport",-16.376388549805,-45.123054504395,1594,"SA","BR","BR-MG","São Romão","no",,,,"SNYM",,,"SNYM"
-37357,"BR-2888","small_airport","Fazenda Rio das Pedras Airport",-19.551666259766,-48.837501525879,2300,"SA","BR","BR-MG","Prata","no",,,,"SNYN",,,"SNYN"
-37359,"BR-2889","small_airport","Pista São Pedro Airport",-5.3205561637878,-56.664722442627,459,"SA","BR","BR-PA","Itaituba","no",,,,"SNYQ",,,"SNYQ"
-37365,"BR-2890","small_airport","Sítio Vodó Airport",-4.093998,-38.248007,249,"SA","BR","BR-CE","Cascavel","no",,,,"SNYX",,,"SNYX"
-37366,"BR-2891","heliport","Copra Heliport",-22.8125,-47.2075,1926,"SA","BR","BR-SP","Sumaré","no",,,,"SNYY",,,"SNYY"
+37329,"BR-2875","small_airport","Uruba Airport",-9.484183,-35.956067,302,"SA","BR","BR-AL","Atalaia","no",,,,,,,"SNWZ"
+37331,"BR-2876","small_airport","Fazenda Beradão Airport",-6.264623,-55.778931,764,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SNXD"
+37333,"BR-2877","small_airport","Estância Turística de Pereira Barreto Airport",-20.624801,-51.080939,1289,"SA","BR","BR-SP","Pereira Barreto","no",,,,,,,"SNXI"
+37337,"BR-2878","small_airport","Fazenda Itumbiara Airport",-6.420713,-53.610569,886,"SA","BR","BR-PA","Altamira","no",,,,,,,"SNXM"
+37338,"BR-2879","small_airport","Heringer Airport",-7.375278,-45.989723,1021,"SA","BR","BR-MA","Balsas","no",,,,,,,"SNXN"
+37339,"BR-2880","small_airport","Fazenda Bom Sucesso Airport",-7.893611,-56.387501,600,"SA","BR","BR-PA","Novo Progresso","no",,,,,,,"SNXO"
+37340,"BR-2881","heliport","Residência Papaiz Heliport",-23.590336,-46.704533,2615,"SA","BR","BR-SP","São Paulo","no",,,,,,,"SNXP"
+37342,"BR-2882","heliport","Meridional Heliport",-20.332521,-40.378429,144,"SA","BR","BR-ES","Cariacica","no",,,,,,,"SNXU"
+37344,"BR-2883","closed","Chaves Airport",-0.1661,-49.9794,20,"SA","BR","BR-PA","Chaves","no",,,,,,,"SNXW, PA0023"
+37347,"BR-2884","small_airport","Rosa Branca Airport",-7.009006,-56.904687,552,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SNYC"
+37348,"BR-2885","small_airport","Pilão Arcado Airport",-10.008622,-42.477276,1312,"SA","BR","BR-BA","Pilão Arcado","no",,,,,,,"SNYD"
+37355,"BR-2886","small_airport","Fazenda São João Airport",-18.425829,-46.051215,3300,"SA","BR","BR-MG","Varjão De Minas","no",,,,,,,"SNYL"
+37356,"BR-2887","small_airport","Fazenda Flexas Airport",-16.370139,-45.123556,1594,"SA","BR","BR-MG","São Romão","no",,,,,,,"SNYM"
+37357,"BR-2888","small_airport","Fazenda Rio das Pedras Airport",-19.534192,-48.838122,2300,"SA","BR","BR-MG","Prata","no",,,,,,,"SNYN"
+37359,"BR-2889","small_airport","São Pedro Airstrip",-5.320287,-56.664691,459,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SNYQ"
+37365,"BR-2890","small_airport","Sítio Vodó Airport",-4.093998,-38.248007,249,"SA","BR","BR-CE","Cascavel","no",,,,,,,"SNYX"
+37366,"BR-2891","heliport","Copra Heliport",-22.8125,-47.2075,1926,"SA","BR","BR-SP","Sumaré","no",,,,,,,"SNYY"
 37367,"BR-2892","small_airport","Vicente José Airport",-4.840662,-38.155063,115,"SA","BR","BR-CE","Russas","no",,,,"SNYZ",,,"SNYZ"
 37369,"BR-2893","small_airport","Fazenda Dona Hilda Airport",-13.204455,-48.590634,1424,"SA","BR","BR-GO","Montividiu do Norte","no",,,,,,,"SNZD"
 37371,"BR-2894","small_airport","Fazenda Bela Vista Airport",-0.27314,-48.577588,66,"SA","BR","BR-PA","Soure","no",,,,"SNZF",,,"SNZF"
@@ -15779,7 +15779,7 @@
 37377,"BR-2896","small_airport","Pista Santa Lúcia Airport",-7.2286109924316,-56.232776641846,1968,"SA","BR","BR-PA","Itaituba","no",,,,"SNZQ",,,"SNZQ"
 37378,"BR-2897","heliport","Birmann 31 Heliport",-23.590109,-46.682012,2618,"SA","BR","BR-SP","São Paulo","no",,,,"SP0594",,,"SNZS, BR-2897"
 37383,"BR-2898","small_airport","Fazenda Bandeira Airport",-21.999513,-50.596862,1450,"SA","BR","BR-SP","Tupã","no",,,,"SNZY",,,"SWQM, SNZY"
-37390,"BR-2899","small_airport","Fazenda Esperança Airport",-22.275557,-53.311943,1109,"SA","BR","BR-MS","Bataiporã","no",,,,"SSAJ",,,"SSAJ"
+37390,"BR-2899","small_airport","Fazenda Esperança Airport",-22.275557,-53.311943,1109,"SA","BR","BR-MS","Bataiporã","no",,,,,,,"SSAJ"
 37392,"BR-2900","small_airport","Amambaí Airport",-23.142778,-55.207779,1542,"SA","BR","BR-MS","Amambaí","no",,,,"SSAM",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Amambai","SSAM"
 37396,"BR-2901","small_airport","Fazenda Japecanga Airport",-20.803995,-54.079343,1493,"SA","BR","BR-MS","Ribas Do Rio Pardo","no",,,,"SSAW",,,"SSAW"
 37397,"BR-2902","small_airport","Fazenda Bela Vista Airport",-19.031944,-53.671112,2017,"SA","BR","BR-MS","Camapuã","no",,,,"SSBA",,,"SSBA"
@@ -23013,18 +23013,18 @@
 317873,"EDA","seaplane_base","Edna Bay Seaplane Base",55.949653,-133.661012,,"NA","US","US-AK","Edna Bay","yes",,"EDA",,,,,
 2183,"EDAB","small_airport","Bautzen Airfield",51.193611,14.519722,568,"EU","DE","DE-SN","Kubschütz","no","EDAB",,"EDAB",,"http://www.flugplatz-bautzen.de/","http://de.wikipedia.org/wiki/Flugplatz_Bautzen","Flugplatz Bautzen"
 2184,"EDAC","medium_airport","Leipzig–Altenburg Airport",50.981945,12.506389,640,"EU","DE","DE-TH","Nobitz","no","EDAC","AOC","EDAC",,"http://www.leipzig-altenburg-airport.de/","https://en.wikipedia.org/wiki/Leipzig%E2%80%93Altenburg_Airport","Altenburg-Nobitz"
-2185,"EDAD","small_airport","Dessau Airfield",51.8318,12.184011,187,"EU","DE","DE-ST","Dessau-Roßlau","no","EDAD",,"EDAD",,,"https://de.wikipedia.org/wiki/Flugplatz_Dessau",
-2186,"EDAE","small_airport","Eisenhüttenstadt Airfield",52.197199,14.585696,144,"EU","DE","DE-BR","Siehdichum","no","EDAE",,"EDAE",,,"https://de.wikipedia.org/wiki/Flugplatz_Eisenh%C3%BCttenstadt",
-28580,"EDAG","small_airport","Großrückerswalde Airfield",50.644169,13.126389,2198,"EU","DE","DE-SN","Großrückerswalde","no","EDAG",,"EDAG",,,"https://de.wikipedia.org/wiki/Flugplatz_Gro%C3%9Fr%C3%BCckerswalde",
-2187,"EDAH","medium_airport","Heringsdorf Airport",53.8787,14.1523,93,"EU","DE","DE-MV","Zirchow","yes","EDAH","HDF","EDAH",,,"https://en.wikipedia.org/wiki/Heringsdorf_Airport",
-28728,"EDAI","small_airport","Sonderlandeplatz Segeletz",52.826668,12.541944,141,"EU","DE","DE-BR","Neustadt","no","EDAI",,"EDAI",,,"https://de.wikipedia.org/wiki/Flugplatz_Segeletz",
-28569,"EDAJ","small_airport","Gera-Leumnitz Airfield",50.881668,12.135833,1014,"EU","DE","DE-TH","Gera","no","EDAJ",,"EDAJ",,"http://www.flugplatz-gera.com/","http://de.wikipedia.org/wiki/Flugplatz_Gera-Leumnitz","Flugplatz Gera-Leumnitz"
+2185,"EDAD","small_airport","Dessau Airfield",51.8318,12.184011,187,"EU","DE","DE-ST","Dessau-Roßlau","no","EDAD",,"EDAD",,"https://www.flugplatz-dessau.de/","https://de.wikipedia.org/wiki/Flugplatz_Dessau",
+2186,"EDAE","small_airport","Eisenhüttenstadt Airfield",52.197199,14.585696,149,"EU","DE","DE-BR","Siehdichum","no","EDAE",,"EDAE",,"https://flugplatz-edae.com/","https://de.wikipedia.org/wiki/Flugplatz_Eisenh%C3%BCttenstadt",
+28580,"EDAG","small_airport","Großrückerswalde Airfield",50.644169,13.126389,2198,"EU","DE","DE-SN","Großrückerswalde","no","EDAG",,"EDAG",,"https://www.erzgebirgsflieger.de/flugplatz.html","https://de.wikipedia.org/wiki/Flugplatz_Gro%C3%9Fr%C3%BCckerswalde",
+2187,"EDAH","medium_airport","Heringsdorf Airport",53.8787,14.1523,94,"EU","DE","DE-MV","Zirchow","yes","EDAH","HDF","EDAH",,"https://www.flughafen-heringsdorf.de/","https://en.wikipedia.org/wiki/Heringsdorf_Airport",
+28728,"EDAI","small_airport","Sonderlandeplatz Segeletz",52.826668,12.541944,140,"EU","DE","DE-BR","Neustadt","no","EDAI",,"EDAI",,,"https://de.wikipedia.org/wiki/Flugplatz_Segeletz",
+28569,"EDAJ","small_airport","Gera-Leumnitz Airfield",50.881668,12.135833,1015,"EU","DE","DE-TH","Gera","no","EDAJ",,"EDAJ",,"https://www.flugplatz-gera.de/","http://de.wikipedia.org/wiki/Flugplatz_Gera-Leumnitz","Flugplatz Gera-Leumnitz"
 2188,"EDAK","small_airport","Großenhain Airfield",51.308056,13.555556,417,"EU","DE","DE-SN","Großenhain","no","EDAK",,"EDAK",,,"https://en.wikipedia.org/wiki/Gro%C3%9Fenhain_Airport","Grossenhain"
-2189,"EDAM","small_airport","Merseburg Airfield",51.362564,11.94113,341,"EU","DE","DE-ST","Merseburg","no","EDAM",,"EDAM",,,"https://de.wikipedia.org/wiki/Flugplatz_Merseburg","Flugplatz Merseburg"
-28663,"EDAN","small_airport","Neustadt-Glewe Airfield",53.362444,11.613764,115,"EU","DE","DE-MV","Neustadt-Glewe","no","EDAN",,"EDAN",,"https://www.edan-info.de/aip-vfr.htm","https://de.wikipedia.org/wiki/Flugplatz_Neustadt-Glewe","QGW, Flugplatz Neustadt-Glewe"
-505079,"EDAO","small_airport","Nordhausen Airfield",51.493475,10.837562,,"EU","DE","DE-TH","Nordhausen","no","EDAO",,"EDAO",,"https://www.fliegerclub-nordhausen.com/","https://de.wikipedia.org/wiki/Flugplatz_Nordhausen","Flugplatz Nordhausen, Sonderlandeplatz Nordhausen"
+2189,"EDAM","small_airport","Merseburg Airfield",51.362564,11.94113,340,"EU","DE","DE-ST","Merseburg","no","EDAM",,"EDAM",,"https://www.flugplatz-merseburg.de/","https://de.wikipedia.org/wiki/Flugplatz_Merseburg","Flugplatz Merseburg"
+28663,"EDAN","small_airport","Neustadt-Glewe Airfield",53.362444,11.613764,115,"EU","DE","DE-MV","Neustadt-Glewe","no","EDAN","QGW","EDAN",,"https://www.edan-info.de/aip-vfr.htm","https://de.wikipedia.org/wiki/Flugplatz_Neustadt-Glewe","QGW, Flugplatz Neustadt-Glewe"
+505079,"EDAO","small_airport","Nordhausen Airfield",51.493475,10.837562,689,"EU","DE","DE-TH","Nordhausen","no","EDAO",,"EDAO",,"https://www.fliegerclub-nordhausen.com/","https://de.wikipedia.org/wiki/Flugplatz_Nordhausen","Flugplatz Nordhausen, Sonderlandeplatz Nordhausen"
 28659,"EDAP","small_airport","Cottbus-Neuhausen Airfield",51.684723,14.423056,279,"EU","DE","DE-BR","Neuhausen/Spree","no","EDAP",,"EDAP",,"https://flughafen-cottbus.de/","https://en.wikipedia.org/wiki/Cottbus-Neuhausen_Airport",
-2190,"EDAQ","small_airport","Halle-Oppin Airfield",51.552223,12.053889,348,"EU","DE","DE-ST","Landsberg","no","EDAQ",,"EDAQ",,"http://www.flugplatz-halle-oppin.de/","https://de.wikipedia.org/wiki/Flugplatz_Halle-Oppin",
+2190,"EDAQ","small_airport","Halle-Oppin Airfield",51.552223,12.053889,350,"EU","DE","DE-ST","Landsberg","no","EDAQ",,"EDAQ",,"http://www.flugplatz-halle-oppin.de/","https://de.wikipedia.org/wiki/Flugplatz_Halle-Oppin",
 28695,"EDAR","small_airport","Pirna-Pratzschwitz Airfield",50.979603,13.908445,402,"EU","DE","DE-SN","Pirna","no","EDAR",,"EDAR",,"https://www.aeroclub-pirna.de/startseite.html","https://de.wikipedia.org/wiki/Flugplatz_Pirna-Pratzschwitz",
 29868,"EDAS","small_airport","Finsterwalde-Heinrichsruh Airfield",51.634641,13.67505,384,"EU","DE","DE-BR","Finsterwalde","no","EDAS",,"EDAS",,,"https://de.wikipedia.org/wiki/Flugplatz_Finsterwalde-Heinrichsruh","Flugplatz Finsterwalde/Heinrichsruh"
 28655,"EDAT","small_airport","Nardt Airfield",51.451111,14.199444,384,"EU","DE","DE-SN","Hoyerswerda","no","EDAT",,"EDAT",,,"https://de.wikipedia.org/wiki/Flugplatz_Nardt",
